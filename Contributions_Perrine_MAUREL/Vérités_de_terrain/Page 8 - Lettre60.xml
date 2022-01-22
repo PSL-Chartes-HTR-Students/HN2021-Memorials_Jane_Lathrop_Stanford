@@ -1,0 +1,695 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>Lettre60.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Layout>
+    <Page WIDTH="2764"
+          HEIGHT="3650"
+          PHYSICAL_IMG_NR="0"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2764"
+                  HEIGHT="3650">
+        
+
+        
+        <TextBlock ID="eSc_dummyblock_">
+          
+          
+          <TextLine ID="eSc_line_909f2d4c"
+                    
+                    BASELINE="1067 377 1705 384" 
+                    HPOS="1056"
+                    VPOS="288"
+                    WIDTH="648"
+                    HEIGHT="168">
+            <Shape><Polygon POINTS="1065 374 1062 316 1129 301 1129 301 1132 301 1132 301 1248 313 1284 316 1311 313 1439 288 1439 288 1442 288 1442 288 1442 288 1445 288 1445 288 1497 310 1518 322 1558 322 1573 310 1595 292 1595 292 1598 292 1598 292 1598 292 1601 292 1601 292 1601 292 1604 292 1604 292 1704 310 1704 383 1695 456 1601 431 1470 444 1360 456 1360 456 1357 456 1357 456 1354 456 1354 456 1354 456 1351 456 1321 438 1305 428 1278 434 1220 450 1217 450 1217 450 1214 450 1214 450 1214 450 1211 450 1211 450 1211 450 1208 450 1208 450 1187 431 1181 425 1175 428 1135 447 1135 447 1132 447 1132 447 1132 447 1129 447 1129 447 1129 447 1126 447 1056 422"/></Shape>
+	    <String CONTENT="IMMEDIATE PALLBEARERS."
+                    HPOS="1056"
+                    VPOS="288"
+                    WIDTH="648"
+                    HEIGHT="168"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0be5ba55"
+                    
+                    BASELINE="329 441 965 447" 
+                    HPOS="325"
+                    VPOS="358"
+                    WIDTH="639"
+                    HEIGHT="116">
+            <Shape><Polygon POINTS="328 438 331 358 429 389 572 389 605 371 624 361 624 361 624 361 627 361 627 361 630 361 694 365 694 365 694 365 697 365 697 365 700 365 712 374 742 392 788 377 824 365 827 365 827 365 827 365 831 365 831 365 961 386 964 444 961 474 325 474"/></Shape>
+	    <String CONTENT="Prest. David S. Jordan"
+                    HPOS="325"
+                    VPOS="358"
+                    WIDTH="639"
+                    HEIGHT="116"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_aaff7266"
+                    
+                    BASELINE="1889 442 2259 439" 
+                    HPOS="1878"
+                    VPOS="374"
+                    WIDTH="380"
+                    HEIGHT="109">
+            <Shape><Polygon POINTS="1887 441 1878 377 2249 374 2258 438 2255 471 1887 483"/></Shape>
+	    <String CONTENT="Sent Regrets:"
+                    HPOS="1878"
+                    VPOS="374"
+                    WIDTH="380"
+                    HEIGHT="109"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_85c732b0"
+                    
+                    BASELINE="335 505 1082 510" 
+                    HPOS="328"
+                    VPOS="450"
+                    WIDTH="752"
+                    HEIGHT="91">
+            <Shape><Polygon POINTS="334 504 334 450 1080 459 1080 507 1074 541 328 529"/></Shape>
+	    <String CONTENT="Prest. Benjamin I. Wheeler"
+                    HPOS="328"
+                    VPOS="450"
+                    WIDTH="752"
+                    HEIGHT="91"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7a196bfc"
+                    
+                    BASELINE="1751 495 2241 491" 
+                    HPOS="1744"
+                    VPOS="444"
+                    WIDTH="496"
+                    HEIGHT="88">
+            <Shape><Polygon POINTS="1750 492 1744 444 2234 453 2240 489 2237 529 1750 532"/></Shape>
+	    <String CONTENT="Mr. T. H. Goodman"
+                    HPOS="1744"
+                    VPOS="444"
+                    WIDTH="496"
+                    HEIGHT="88"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4659a47d"
+                    
+                    BASELINE="332 555 821 561" 
+                    HPOS="325"
+                    VPOS="511"
+                    WIDTH="493"
+                    HEIGHT="88">
+            <Shape><Polygon POINTS="331 553 331 511 815 520 818 559 812 599 325 593"/></Shape>
+	    <String CONTENT="Mr. Wm. H. Crooker"
+                    HPOS="325"
+                    VPOS="511"
+                    WIDTH="493"
+                    HEIGHT="88"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_14caa926"
+                    
+                    BASELINE="1740 551 2185 558" 
+                    HPOS="1732"
+                    VPOS="504"
+                    WIDTH="450"
+                    HEIGHT="83">
+            <Shape><Polygon POINTS="1738 550 1738 504 2179 511 2182 556 2176 587 1732 584"/></Shape>
+	    <String CONTENT="Mr. John Garber"
+                    HPOS="1732"
+                    VPOS="504"
+                    WIDTH="450"
+                    HEIGHT="83"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_52f9b90b"
+                    
+                    BASELINE="332 619 796 619" 
+                    HPOS="331"
+                    VPOS="574"
+                    WIDTH="463"
+                    HEIGHT="86">
+            <Shape><Polygon POINTS="331 617 331 574 794 577 794 617 794 653 331 660"/></Shape>
+	    <String CONTENT="Mr. W. H. Beatty"
+                    HPOS="331"
+                    VPOS="574"
+                    WIDTH="463"
+                    HEIGHT="86"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_67dcbc8b"
+                    
+                    BASELINE="1749 606 2417 606" 
+                    HPOS="1744"
+                    VPOS="559"
+                    WIDTH="676"
+                    HEIGHT="131">
+            <Shape><Polygon POINTS="1747 605 1744 571 2413 559 2416 605 2420 663 2362 687 2362 687 2359 687 2359 687 2359 687 2356 687 2356 687 2353 687 2353 687 2353 687 2350 687 2350 687 2350 684 2328 666 2328 666 2261 666 2255 666 2225 687 2222 687 2222 687 2222 687 2219 687 2219 687 2219 690 2045 690 2042 687 2042 687 2039 687 2039 687 2036 687 2036 687 2018 672 2009 666 1987 675 1948 687 1948 687 1945 687 1945 687 1942 687 1942 687 1942 687 1884 675 1844 669 1747 678"/></Shape>
+	    <String CONTENT="Hon. Thos. B. McFarland"
+                    HPOS="1744"
+                    VPOS="559"
+                    WIDTH="676"
+                    HEIGHT="131"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_277acfe6"
+                    
+                    BASELINE="332 676 815 676" 
+                    HPOS="328"
+                    VPOS="629"
+                    WIDTH="484"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="331 675 328 638 809 629 812 675 812 705 331 708"/></Shape>
+	    <String CONTENT="Dr. W.R. Cluness"
+                    HPOS="328"
+                    VPOS="629"
+                    WIDTH="484"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ab1203ff"
+                    
+                    BASELINE="345 720 815 739" 
+                    HPOS="337"
+                    VPOS="681"
+                    WIDTH="475"
+                    HEIGHT="88">
+            <Shape><Polygon POINTS="343 717 343 681 809 690 812 736 806 769 337 763"/></Shape>
+	    <String CONTENT="Mr. Gero. Crothers"
+                    HPOS="337"
+                    VPOS="681"
+                    WIDTH="475"
+                    HEIGHT="88"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_06d673c3"
+                    
+                    BASELINE="345 790 815 790" 
+                    HPOS="343"
+                    VPOS="751"
+                    WIDTH="469"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="343 787 343 751 812 751 812 787 812 824 343 833"/></Shape>
+	    <String CONTENT="Mr. Jan. Carolin"
+                    HPOS="343"
+                    VPOS="751"
+                    WIDTH="469"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c32fd691"
+                    
+                    BASELINE="332 841 853 860" 
+                    HPOS="325"
+                    VPOS="803"
+                    WIDTH="527"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="331 839 331 803 852 803 852 857 846 888 325 885"/></Shape>
+	    <String CONTENT="Hon. Wm. W. Horrow"
+                    HPOS="325"
+                    VPOS="803"
+                    WIDTH="527"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_09eb4f28"
+                    
+                    BASELINE="338 917 713 911" 
+                    HPOS="331"
+                    VPOS="863"
+                    WIDTH="381"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="337 915 331 869 703 863 712 909 712 936 337 945"/></Shape>
+	    <String CONTENT="Mr. D.W. Earl"
+                    HPOS="331"
+                    VPOS="863"
+                    WIDTH="381"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f2be5021"
+                    
+                    BASELINE="351 968 758 975" 
+                    HPOS="347"
+                    VPOS="921"
+                    WIDTH="410"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="350 967 347 927 751 921 757 973 754 1006 347 1006"/></Shape>
+	    <String CONTENT="Mr. L. S. Beedy"
+                    HPOS="347"
+                    VPOS="921"
+                    WIDTH="410"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7639f238"
+                    
+                    BASELINE="338 1025 790 1019" 
+                    HPOS="331"
+                    VPOS="976"
+                    WIDTH="457"
+                    HEIGHT="88">
+            <Shape><Polygon POINTS="337 1022 331 988 779 976 788 1018 782 1064 334 1061"/></Shape>
+	    <String CONTENT="Dr. J.C. Branner"
+                    HPOS="331"
+                    VPOS="976"
+                    WIDTH="457"
+                    HEIGHT="88"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_bf910dd5"
+                    
+                    BASELINE="345 1076 790 1076" 
+                    HPOS="340"
+                    VPOS="1040"
+                    WIDTH="448"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="343 1073 343 1040 788 1040 788 1073 785 1122 340 1119"/></Shape>
+	    <String CONTENT="Prof. F. Sanford"
+                    HPOS="340"
+                    VPOS="1040"
+                    WIDTH="448"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7630ad68"
+                    
+                    BASELINE="338 1146 853 1146" 
+                    HPOS="334"
+                    VPOS="1095"
+                    WIDTH="518"
+                    HEIGHT="88">
+            <Shape><Polygon POINTS="337 1143 334 1104 849 1095 852 1143 852 1174 337 1183"/></Shape>
+	    <String CONTENT="Dr. J.M. Stillman"
+                    HPOS="334"
+                    VPOS="1095"
+                    WIDTH="518"
+                    HEIGHT="88"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_97dc50da"
+                    
+                    BASELINE="338 1203 783 1197" 
+                    HPOS="331"
+                    VPOS="1161"
+                    WIDTH="451"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="337 1201 331 1164 773 1161 782 1195 782 1225 337 1237"/></Shape>
+	    <String CONTENT="Prof. C.D. Marx"
+                    HPOS="331"
+                    VPOS="1161"
+                    WIDTH="451"
+                    HEIGHT="76"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d61d12d4"
+                    
+                    BASELINE="345 1254 879 1261" 
+                    HPOS="340"
+                    VPOS="1210"
+                    WIDTH="536"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="343 1253 340 1216 873 1210 876 1259 873 1292 340 1295"/></Shape>
+	    <String CONTENT="Prof. Nathan Abbot"
+                    HPOS="340"
+                    VPOS="1210"
+                    WIDTH="536"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3fc3369f"
+                    
+                    BASELINE="351 1324 847 1324" 
+                    HPOS="350"
+                    VPOS="1280"
+                    WIDTH="496"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="350 1323 350 1280 846 1283 846 1323 846 1359 350 1362"/></Shape>
+	    <String CONTENT="Prof. A. T. Murray"
+                    HPOS="350"
+                    VPOS="1280"
+                    WIDTH="496"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1e14ebbc"
+                    
+                    BASELINE="332 1375 790 1381" 
+                    HPOS="328"
+                    VPOS="1332"
+                    WIDTH="460"
+                    HEIGHT="94">
+            <Shape><Polygon POINTS="331 1374 328 1335 785 1332 788 1380 785 1408 599 1426 596 1426 596 1426 596 1426 593 1426 547 1414 529 1408 328 1414"/></Shape>
+	    <String CONTENT="Mr. A. L. Rhodes"
+                    HPOS="328"
+                    VPOS="1332"
+                    WIDTH="460"
+                    HEIGHT="94"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f55c50ca"
+                    
+                    BASELINE="332 1464 751 1464" 
+                    HPOS="331"
+                    VPOS="1408"
+                    WIDTH="417"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="331 1463 331 1408 748 1414 748 1463 748 1487 331 1493"/></Shape>
+	    <String CONTENT="Hon. S. F. Leib"
+                    HPOS="331"
+                    VPOS="1408"
+                    WIDTH="417"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a9b642a1"
+                    
+                    BASELINE="338 1521 739 1515" 
+                    HPOS="331"
+                    VPOS="1472"
+                    WIDTH="405"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="337 1520 331 1475 727 1472 736 1514 733 1551 337 1554"/></Shape>
+	    <String CONTENT="Mr. D. O. Mills"
+                    HPOS="331"
+                    VPOS="1472"
+                    WIDTH="405"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ae00ff48"
+                    
+                    BASELINE="332 1578 853 1578" 
+                    HPOS="328"
+                    VPOS="1523"
+                    WIDTH="524"
+                    HEIGHT="95">
+            <Shape><Polygon POINTS="331 1575 328 1536 849 1523 852 1575 849 1618 328 1612"/></Shape>
+	    <String CONTENT="Hon. Whittelaw Reld"
+                    HPOS="328"
+                    VPOS="1523"
+                    WIDTH="524"
+                    HEIGHT="95"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_64bdc7b4"
+                    
+                    BASELINE="325 1642 853 1636" 
+                    HPOS="316"
+                    VPOS="1590"
+                    WIDTH="536"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="322 1639 316 1590 846 1590 852 1633 852 1660 322 1666"/></Shape>
+	    <String CONTENT="Capt. M. T. Smith"
+                    HPOS="316"
+                    VPOS="1590"
+                    WIDTH="536"
+                    HEIGHT="76"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_55297786"
+                    
+                    BASELINE="332 1693 885 1699" 
+                    HPOS="328"
+                    VPOS="1648"
+                    WIDTH="554"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="331 1691 331 1648 879 1654 882 1697 879 1730 328 1730"/></Shape>
+	    <String CONTENT="Mr. Timothy Hopkins"
+                    HPOS="328"
+                    VPOS="1648"
+                    WIDTH="554"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_cf70884a"
+                    
+                    BASELINE="332 1750 872 1756" 
+                    HPOS="325"
+                    VPOS="1706"
+                    WIDTH="545"
+                    HEIGHT="88">
+            <Shape><Polygon POINTS="331 1748 331 1706 867 1715 870 1755 864 1794 325 1785"/></Shape>
+	    <String CONTENT="Mr. Joseph D. Grant"
+                    HPOS="325"
+                    VPOS="1706"
+                    WIDTH="545"
+                    HEIGHT="88"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_eb0acf6f"
+                    
+                    BASELINE="332 1814 783 1814" 
+                    HPOS="328"
+                    VPOS="1767"
+                    WIDTH="454"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="331 1812 331 1767 782 1776 782 1812 779 1852 328 1849"/></Shape>
+	    <String CONTENT="Mr. Geo. E. Gray"
+                    HPOS="328"
+                    VPOS="1767"
+                    WIDTH="454"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5b551665"
+                    
+                    BASELINE="332 1877 879 1877" 
+                    HPOS="328"
+                    VPOS="1825"
+                    WIDTH="548"
+                    HEIGHT="88">
+            <Shape><Polygon POINTS="331 1876 328 1828 873 1825 876 1876 876 1913 331 1913"/></Shape>
+	    <String CONTENT="Hon. Geo. C. Pardee"
+                    HPOS="328"
+                    VPOS="1825"
+                    WIDTH="548"
+                    HEIGHT="88"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8f08274b"
+                    
+                    BASELINE="351 1928 770 1928" 
+                    HPOS="347"
+                    VPOS="1888"
+                    WIDTH="420"
+                    HEIGHT="83">
+            <Shape><Polygon POINTS="350 1925 350 1888 767 1888 767 1925 764 1971 347 1967"/></Shape>
+	    <String CONTENT="Mr. Wm. Babcock"
+                    HPOS="347"
+                    VPOS="1888"
+                    WIDTH="420"
+                    HEIGHT="83"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_02280107"
+                    
+                    BASELINE="338 1998 669 1985" 
+                    HPOS="328"
+                    VPOS="1940"
+                    WIDTH="338"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="337 1995 328 1943 657 1940 666 1983 666 2019 337 2022"/></Shape>
+	    <String CONTENT="Mr. C.P. Bols"
+                    HPOS="328"
+                    VPOS="1940"
+                    WIDTH="338"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_42e491f9"
+                    
+                    BASELINE="338 2042 942 2049" 
+                    HPOS="334"
+                    VPOS="1964"
+                    WIDTH="606"
+                    HEIGHT="116">
+            <Shape><Polygon POINTS="337 2040 337 2001 663 2007 703 1977 718 1964 718 1964 721 1964 721 1964 721 1964 724 1964 724 1964 727 1964 727 1964 727 1964 730 1964 730 1964 751 1974 791 1992 824 1971 827 1967 831 1967 831 1967 831 1967 834 1967 834 1967 834 1967 937 1964 940 2047 937 2077 334 2080"/></Shape>
+	    <String CONTENT="Mr. Russell J. Wilson"
+                    HPOS="334"
+                    VPOS="1964"
+                    WIDTH="606"
+                    HEIGHT="116"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f9d1d35a"
+                    
+                    BASELINE="332 2106 910 2093" 
+                    HPOS="322"
+                    VPOS="2056"
+                    WIDTH="585"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="331 2104 322 2059 897 2056 907 2092 904 2138 331 2141"/></Shape>
+	    <String CONTENT="Mr. Arthur. M. Dibble"
+                    HPOS="322"
+                    VPOS="2056"
+                    WIDTH="585"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c8ef0779"
+                    
+                    BASELINE="319 2170 1025 2157" 
+                    HPOS="307"
+                    VPOS="2092"
+                    WIDTH="715"
+                    HEIGHT="116">
+            <Shape><Polygon POINTS="316 2168 307 2129 468 2110 471 2110 605 2110 888 2117 916 2095 916 2095 916 2095 919 2095 919 2095 919 2095 922 2095 922 2095 922 2095 1013 2092 1022 2156 1016 2208 313 2202"/></Shape>
+	    <String CONTENT="Mr. Alferd L. Trowbridge"
+                    HPOS="307"
+                    VPOS="2092"
+                    WIDTH="715"
+                    HEIGHT="116"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_14ebb72f"
+                    
+                    BASELINE="319 2239 851 2227" 
+                    HPOS="310"
+                    VPOS="2180"
+                    WIDTH="539"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="316 2238 310 2193 840 2180 849 2226 846 2253 316 2256"/></Shape>
+	    <String CONTENT="Mr. J.D. McGilvray"
+                    HPOS="310"
+                    VPOS="2180"
+                    WIDTH="539"
+                    HEIGHT="76"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3b0b3148"
+                    
+                    BASELINE="319 2279 787 2290" 
+                    HPOS="313"
+                    VPOS="2235"
+                    WIDTH="472"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="316 2278 316 2235 782 2244 785 2287 782 2317 313 2317"/></Shape>
+	    <String CONTENT="Mr. C. F. Hodges"
+                    HPOS="313"
+                    VPOS="2235"
+                    WIDTH="472"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_38fada58"
+                    
+                    BASELINE="336 2348 793 2342" 
+                    HPOS="328"
+                    VPOS="2293"
+                    WIDTH="463"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="334 2345 328 2296 782 2293 791 2339 791 2372 334 2372"/></Shape>
+	    <String CONTENT="Hon. M.H. Hyland"
+                    HPOS="328"
+                    VPOS="2293"
+                    WIDTH="463"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_52b40ece"
+                    
+                    BASELINE="342 2394 874 2388" 
+                    HPOS="334"
+                    VPOS="2342"
+                    WIDTH="539"
+                    HEIGHT="124">
+            <Shape><Polygon POINTS="340 2393 334 2354 864 2342 873 2387 873 2457 733 2463 730 2463 730 2463 727 2463 727 2463 727 2463 706 2454 694 2448 663 2454 578 2466 578 2466 575 2466 575 2466 575 2466 572 2466 514 2448 490 2442 340 2442"/></Shape>
+	    <String CONTENT="Hon G.F. Werewick"
+                    HPOS="334"
+                    VPOS="2342"
+                    WIDTH="539"
+                    HEIGHT="124"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

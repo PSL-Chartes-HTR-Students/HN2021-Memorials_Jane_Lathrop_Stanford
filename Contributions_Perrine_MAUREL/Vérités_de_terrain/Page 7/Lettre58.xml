@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>Lettre58.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Layout>
+    <Page WIDTH="2549"
+          HEIGHT="3025"
+          PHYSICAL_IMG_NR="1"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2549"
+                  HEIGHT="3025">
+        
+
+        
+        <TextBlock ID="eSc_dummyblock_">
+          
+          
+          <TextLine ID="eSc_line_3812ab7a"
+                    
+                    BASELINE="154 201 2417 131" 
+                    HPOS="154"
+                    VPOS="131"
+                    WIDTH="2263"
+                    HEIGHT="70">
+            
+	    <String CONTENT="not expected that"
+                    HPOS="154"
+                    VPOS="131"
+                    WIDTH="2263"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4151663e"
+                    
+                    BASELINE="101 465 2463 395" 
+                    HPOS="101"
+                    VPOS="395"
+                    WIDTH="2362"
+                    HEIGHT="70">
+            
+	    <String CONTENT="Mrs. Stanford would"
+                    HPOS="101"
+                    VPOS="395"
+                    WIDTH="2362"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ff07d556"
+                    
+                    BASELINE="66 746 2180 676" 
+                    HPOS="66"
+                    VPOS="676"
+                    WIDTH="2114"
+                    HEIGHT="70">
+            
+	    <String CONTENT="rouse enough to"
+                    HPOS="66"
+                    VPOS="676"
+                    WIDTH="2114"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_af8aedd1"
+                    
+                    BASELINE="95 987 2463 969" 
+                    HPOS="95"
+                    VPOS="969"
+                    WIDTH="2368"
+                    HEIGHT="18">
+            
+	    <String CONTENT="call in outside par-"
+                    HPOS="95"
+                    VPOS="969"
+                    WIDTH="2368"
+                    HEIGHT="18"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ac78b0b5"
+                    
+                    BASELINE="148 1250 2499 1198" 
+                    HPOS="148"
+                    VPOS="1198"
+                    WIDTH="2351"
+                    HEIGHT="52">
+            
+	    <String CONTENT="ties, but her groans"
+                    HPOS="148"
+                    VPOS="1198"
+                    WIDTH="2351"
+                    HEIGHT="52"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_45497811"
+                    
+                    BASELINE="142 1497 2463 1467" 
+                    HPOS="142"
+                    VPOS="1467"
+                    WIDTH="2321"
+                    HEIGHT="30">
+            
+	    <String CONTENT="called others, &amp; the"
+                    HPOS="142"
+                    VPOS="1467"
+                    WIDTH="2321"
+                    HEIGHT="30"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_eb489726"
+                    
+                    BASELINE="118 1743 2516 1743" 
+                    HPOS="118"
+                    VPOS="1743"
+                    WIDTH="2398"
+                    HEIGHT="0">
+            
+	    <String CONTENT="plan was frustrated."
+                    HPOS="118"
+                    VPOS="1743"
+                    WIDTH="2398"
+                    HEIGHT="0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_36d437eb"
+                    
+                    BASELINE="165 2030 2227 1989" 
+                    HPOS="165"
+                    VPOS="1989"
+                    WIDTH="2062"
+                    HEIGHT="41">
+            
+	    <String CONTENT="It was expected"
+                    HPOS="165"
+                    VPOS="1989"
+                    WIDTH="2062"
+                    HEIGHT="41"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9063ea84"
+                    
+                    BASELINE="171 2282 2387 2241" 
+                    HPOS="171"
+                    VPOS="2241"
+                    WIDTH="2216"
+                    HEIGHT="41">
+            
+	    <String CONTENT="to take possession"
+                    HPOS="171"
+                    VPOS="2241"
+                    WIDTH="2216"
+                    HEIGHT="41"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_445d3228"
+                    
+                    BASELINE="177 2552 2364 2487" 
+                    HPOS="177"
+                    VPOS="2487"
+                    WIDTH="2187"
+                    HEIGHT="65">
+            
+	    <String CONTENT="of the jewels etc."
+                    HPOS="177"
+                    VPOS="2487"
+                    WIDTH="2187"
+                    HEIGHT="65"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f2227d56"
+                    
+                    BASELINE="552 2816 2463 2792" 
+                    HPOS="552"
+                    VPOS="2792"
+                    WIDTH="1911"
+                    HEIGHT="24">
+            
+	    <String CONTENT="This is the theory"
+                    HPOS="552"
+                    VPOS="2792"
+                    WIDTH="1911"
+                    HEIGHT="24"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
