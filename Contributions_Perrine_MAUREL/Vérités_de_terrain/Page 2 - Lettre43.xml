@@ -1,0 +1,530 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>Lettre43.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    
+    <OtherTag ID="LT1" LABEL="Main" DESCRIPTION="line type Main"/><OtherTag ID="LT4" LABEL="Signature" DESCRIPTION="line type Signature"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="3346"
+          HEIGHT="4385"
+          PHYSICAL_IMG_NR="0"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="3346"
+                  HEIGHT="4385">
+        
+
+        
+        <TextBlock ID="eSc_dummyblock_">
+          
+          
+          <TextLine ID="eSc_line_65acaab7"
+                    
+                    BASELINE="94 56 386 56" 
+                    HPOS="91"
+                    VPOS="0"
+                    WIDTH="292"
+                    HEIGHT="120">
+            <Shape><Polygon POINTS="91 54 91 0 383 0 383 54 383 102 91 120"/></Shape>
+	    <String CONTENT="WILBUR F. GEORGE"
+                    HPOS="91"
+                    VPOS="0"
+                    WIDTH="292"
+                    HEIGHT="120"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2eda9da1"
+                    
+                    BASELINE="248 110 810 118" 
+                    HPOS="237"
+                    VPOS="62"
+                    WIDTH="571"
+                    HEIGHT="98">
+            <Shape><Polygon POINTS="245 109 245 62 804 73 808 116 800 160 237 157"/></Shape>
+	    <String CONTENT="GEORGE &amp; HINSDALE"
+                    HPOS="237"
+                    VPOS="62"
+                    WIDTH="571"
+                    HEIGHT="98"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_70f0eb66"
+                    
+                    BASELINE="671 64 971 64" 
+                    HPOS="665"
+                    VPOS="7"
+                    WIDTH="304"
+                    HEIGHT="102">
+            <Shape><Polygon POINTS="669 62 665 14 965 7 969 62 965 109 665 102"/></Shape>
+	    <String CONTENT="LESTER J. HINSDALE"
+                    HPOS="665"
+                    VPOS="7"
+                    WIDTH="304"
+                    HEIGHT="102"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_588adcee"
+                    
+                    BASELINE="279 233 802 249" 
+                    HPOS="270"
+                    VPOS="182"
+                    WIDTH="530"
+                    HEIGHT="92">
+            <Shape><Polygon POINTS="277 230 277 182 800 204 800 248 793 274 270 270"/></Shape>
+	    <String CONTENT="ROOMS 3, 4 and 5, UP STAIRS"
+                    HPOS="270"
+                    VPOS="182"
+                    WIDTH="530"
+                    HEIGHT="92"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_27605673"
+                    
+                    BASELINE="348 179 710 187" 
+                    HPOS="343"
+                    VPOS="131"
+                    WIDTH="366"
+                    HEIGHT="88">
+            <Shape><Polygon POINTS="347 175 347 131 705 135 709 186 705 219 343 219"/></Shape>
+	    <String CONTENT="ATTORNEYS AT LAW"
+                    HPOS="343"
+                    VPOS="131"
+                    WIDTH="366"
+                    HEIGHT="88"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_38dca2c4"
+                    
+                    BASELINE="102 290 400 295" 
+                    HPOS="95"
+                    VPOS="241"
+                    WIDTH="303"
+                    HEIGHT="120">
+            <Shape><Polygon POINTS="98 288 95 244 394 241 398 292 394 336 95 361"/></Shape>
+	    <String CONTENT="401 J STREET"
+                    HPOS="95"
+                    VPOS="241"
+                    WIDTH="303"
+                    HEIGHT="120"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2b018a3b"
+                    
+                    BASELINE="357 348 722 353" 
+                    HPOS="351"
+                    VPOS="303"
+                    WIDTH="369"
+                    HEIGHT="95">
+            <Shape><Polygon POINTS="354 347 354 303 716 303 720 350 716 398 351 398"/></Shape>
+	    <String CONTENT="TELEPHONE, OAK 9471"
+                    HPOS="351"
+                    VPOS="303"
+                    WIDTH="369"
+                    HEIGHT="95"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1c811f1b"
+                    
+                    BASELINE="578 295 958 295" 
+                    HPOS="574"
+                    VPOS="244"
+                    WIDTH="380"
+                    HEIGHT="103">
+            <Shape><Polygon POINTS="577 292 574 248 950 244 954 292 950 347 574 343"/></Shape>
+	    <String CONTENT="SACRAMENTO,CAL."
+                    HPOS="574"
+                    VPOS="244"
+                    WIDTH="380"
+                    HEIGHT="103"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6349a558"
+                    
+                    BASELINE="2310 438 2919 457" 
+                    HPOS="2300"
+                    VPOS="350"
+                    WIDTH="618"
+                    HEIGHT="157">
+            <Shape><Polygon POINTS="2307 434 2303 361 2406 350 2409 350 2409 350 2409 350 2413 350 2413 350 2439 361 2497 390 2629 394 2914 369 2918 456 2910 507 2300 493"/></Shape>
+	    <String CONTENT="March 22, 1905."
+                    HPOS="2300"
+                    VPOS="350"
+                    WIDTH="618"
+                    HEIGHT="157"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_90d7a6ff"
+                    
+                    BASELINE="261 805 1150 805" 
+                    HPOS="259"
+                    VPOS="738"
+                    WIDTH="889"
+                    HEIGHT="131">
+            <Shape><Polygon POINTS="259 803 259 738 1148 738 1148 803 1148 851 259 869"/></Shape>
+	    <String CONTENT="Dr. David Starr Jordan,"
+                    HPOS="259"
+                    VPOS="738"
+                    WIDTH="889"
+                    HEIGHT="131"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a8f59e48"
+                    
+                    BASELINE="780 935 1564 935" 
+                    HPOS="775"
+                    VPOS="844"
+                    WIDTH="786"
+                    HEIGHT="153">
+            <Shape><Polygon POINTS="778 931 775 873 1020 847 1020 847 1023 847 1023 847 1027 847 1082 862 1115 869 1129 858 1151 844 1155 844 1155 844 1155 844 1159 844 1159 844 1159 844 1162 844 1298 855 1477 869 1554 847 1561 931 1557 997 1466 979 1378 997 1371 997 1371 997 1371 997 1367 997 1367 997 1363 997 1360 997 1287 979 778 990"/></Shape>
+	    <String CONTENT="Stanford University,"
+                    HPOS="775"
+                    VPOS="844"
+                    WIDTH="786"
+                    HEIGHT="153"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_00a6d3dc"
+                    
+                    BASELINE="1372 1064 1535 1064" 
+                    HPOS="1371"
+                    VPOS="1001"
+                    WIDTH="161"
+                    HEIGHT="128">
+            <Shape><Polygon POINTS="1371 1063 1371 1001 1532 1012 1532 1063 1532 1103 1371 1129"/></Shape>
+	    <String CONTENT="Cal."
+                    HPOS="1371"
+                    VPOS="1001"
+                    WIDTH="161"
+                    HEIGHT="128"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d1aebf28"
+                    
+                    BASELINE="246 1199 1054 1209" 
+                    HPOS="241"
+                    VPOS="1129"
+                    WIDTH="812"
+                    HEIGHT="135">
+            <Shape><Polygon POINTS="245 1198 245 1129 694 1151 767 1147 936 1132 939 1132 939 1132 939 1132 1053 1158 1053 1205 1053 1235 961 1264 958 1264 958 1264 958 1264 954 1264 954 1264 954 1264 950 1264 950 1264 899 1242 797 1264 797 1264 797 1264 793 1264 793 1264 789 1264 789 1264 789 1264 786 1264 786 1264 764 1246 753 1238 241 1260"/></Shape>
+	    <String CONTENT="Dear Doctor Jordan:"
+                    HPOS="241"
+                    VPOS="1129"
+                    WIDTH="812"
+                    HEIGHT="135"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3d8b0ec1"
+                    
+                    BASELINE="448 1334 3064 1311" 
+                    HPOS="435"
+                    VPOS="1235"
+                    WIDTH="2625"
+                    HEIGHT="153">
+            <Shape><Polygon POINTS="446 1333 435 1275 490 1257 493 1257 493 1257 493 1257 497 1257 661 1271 735 1278 764 1271 815 1257 819 1257 819 1257 819 1257 822 1257 822 1257 826 1257 826 1257 866 1271 877 1275 888 1271 928 1249 928 1249 928 1249 932 1249 932 1249 932 1249 1192 1246 1195 1246 1437 1267 1502 1271 1517 1267 1576 1242 1576 1242 1579 1242 1579 1242 1579 1242 1583 1242 2003 1264 2066 1264 2102 1260 2362 1235 2362 1235 2365 1235 2365 1235 2369 1235 2369 1235 2431 1260 2439 1260 2450 1260 2570 1235 2570 1235 2570 1235 2574 1235 2574 1235 2578 1235 2578 1235 2578 1235 2581 1235 2618 1257 2621 1260 2658 1257 2812 1242 2812 1242 2815 1242 3053 1257 3060 1308 3053 1370 2391 1359 2248 1377 2237 1377 2237 1377 2234 1377 2219 1377 2047 1363 446 1388"/></Shape>
+	    <String CONTENT="It was my intention to be present at the funeral of Mrs. Stanford"
+                    HPOS="435"
+                    VPOS="1235"
+                    WIDTH="2625"
+                    HEIGHT="153"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_06badb09"
+                    
+                    BASELINE="248 1464 3180 1457" 
+                    HPOS="241"
+                    VPOS="1399"
+                    WIDTH="2936"
+                    HEIGHT="121">
+            <Shape><Polygon POINTS="245 1461 241 1399 3170 1403 3177 1454 3174 1498 1711 1498 1663 1509 1638 1516 1634 1516 1634 1516 1630 1516 1290 1512 500 1501 245 1520"/></Shape>
+	    <String CONTENT="Friday afternoon at the University. The very serious condition and prob-"
+                    HPOS="241"
+                    VPOS="1399"
+                    WIDTH="2936"
+                    HEIGHT="121"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_55520e23"
+                    
+                    BASELINE="255 1611 3010 1588" 
+                    HPOS="245"
+                    VPOS="1534"
+                    WIDTH="2764"
+                    HEIGHT="121">
+            <Shape><Polygon POINTS="252 1607 245 1545 2998 1534 3009 1585 3005 1629 252 1655"/></Shape>
+	    <String CONTENT="able death in a day or two of Judge McKune, an old and retired member"
+                    HPOS="245"
+                    VPOS="1534"
+                    WIDTH="2764"
+                    HEIGHT="121"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_380bf1b5"
+                    
+                    BASELINE="248 1741 3087 1726" 
+                    HPOS="237"
+                    VPOS="1662"
+                    WIDTH="2849"
+                    HEIGHT="124">
+            <Shape><Polygon POINTS="245 1739 237 1691 3075 1662 3086 1724 3086 1764 245 1786"/></Shape>
+	    <String CONTENT="of our firm, makes it impossible for me to leave the office, much to my"
+                    HPOS="237"
+                    VPOS="1662"
+                    WIDTH="2849"
+                    HEIGHT="124"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_71b5d3f2"
+                    
+                    BASELINE="255 1880 3111 1857" 
+                    HPOS="245"
+                    VPOS="1805"
+                    WIDTH="2863"
+                    HEIGHT="124">
+            <Shape><Polygon POINTS="252 1878 245 1816 3097 1805 3108 1856 3104 1900 1682 1900 1521 1914 1488 1918 1488 1918 1484 1918 1451 1918 1283 1903 1122 1922 1100 1922 1100 1922 1097 1922 1064 1922 830 1907 731 1925 720 1925 720 1925 720 1925 716 1925 691 1925 391 1911 252 1929"/></Shape>
+	    <String CONTENT="regret. I had hoped as a member of the class of &#39;95, who stood on Otc-"
+                    HPOS="245"
+                    VPOS="1805"
+                    WIDTH="2863"
+                    HEIGHT="124"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b9f70b6b"
+                    
+                    BASELINE="255 2018 3131 1988" 
+                    HPOS="245"
+                    VPOS="1929"
+                    WIDTH="2885"
+                    HEIGHT="139">
+            <Shape><Polygon POINTS="252 2017 245 1954 3119 1929 3130 1987 3126 2035 2702 2028 2490 2039 2296 2049 2292 2049 2292 2049 2230 2039 2168 2031 1996 2042 1784 2053 1780 2053 1780 2053 1780 2053 1726 2042 1689 2035 1638 2042 1546 2057 1546 2057 1543 2057 1543 2057 1418 2042 1371 2039 1349 2042 1287 2060 1283 2060 1283 2060 1279 2060 698 2046 636 2046 632 2046 599 2068 596 2068 596 2068 592 2068 592 2068 592 2068 588 2068 248 2046"/></Shape>
+	    <String CONTENT="ober 1st, 1891, and listened to the words of the founders, to be present"
+                    HPOS="245"
+                    VPOS="1929"
+                    WIDTH="2885"
+                    HEIGHT="139"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_db48b8b5"
+                    
+                    BASELINE="255 2134 2980 2126" 
+                    HPOS="248"
+                    VPOS="2068"
+                    WIDTH="2728"
+                    HEIGHT="109">
+            <Shape><Polygon POINTS="252 2130 248 2068 2969 2068 2976 2123 2973 2166 252 2177"/></Shape>
+	    <String CONTENT="and to pay my tribute when the survivor should be laid away. Though"
+                    HPOS="248"
+                    VPOS="2068"
+                    WIDTH="2728"
+                    HEIGHT="109"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_def75b4f"
+                    
+                    BASELINE="255 2288 3184 2265" 
+                    HPOS="245"
+                    VPOS="2199"
+                    WIDTH="2936"
+                    HEIGHT="132">
+            <Shape><Polygon POINTS="252 2287 245 2225 3170 2199 3181 2261 3177 2298 252 2331"/></Shape>
+	    <String CONTENT="my absence is necessary, I shall certainly be with you all in spirit. It"
+                    HPOS="245"
+                    VPOS="2199"
+                    WIDTH="2936"
+                    HEIGHT="132"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a0d1144a"
+                    
+                    BASELINE="232 2419 3111 2388" 
+                    HPOS="226"
+                    VPOS="2324"
+                    WIDTH="2882"
+                    HEIGHT="127">
+            <Shape><Polygon POINTS="230 2415 226 2342 457 2356 559 2338 570 2338 570 2338 570 2338 574 2338 610 2338 884 2353 950 2338 965 2335 969 2335 969 2335 972 2335 1045 2338 1290 2349 1996 2345 2007 2335 2018 2324 2018 2324 2022 2324 2022 2324 2022 2324 2025 2324 2025 2324 2029 2324 3100 2331 3108 2386 3104 2426 230 2451"/></Shape>
+	    <String CONTENT="was not given to all of us to know Mrs. Stanford as you did, and to come"
+                    HPOS="226"
+                    VPOS="2324"
+                    WIDTH="2882"
+                    HEIGHT="127"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e74c3376"
+                    
+                    BASELINE="255 2534 3226 2526" 
+                    HPOS="245"
+                    VPOS="2451"
+                    WIDTH="2980"
+                    HEIGHT="139">
+            <Shape><Polygon POINTS="252 2532 245 2484 376 2462 376 2462 380 2462 782 2477 870 2455 873 2455 873 2455 877 2455 877 2455 1064 2481 1246 2481 1276 2455 1276 2455 1279 2455 1279 2455 1283 2455 1283 2455 1283 2455 1287 2455 1287 2455 1437 2477 1927 2477 2047 2451 2047 2451 2047 2451 2051 2451 2051 2451 2055 2451 2139 2473 2358 2451 2362 2451 2534 2451 2534 2451 2534 2451 2537 2451 2537 2451 2537 2451 2585 2473 2665 2451 2669 2451 2669 2451 2673 2451 2921 2451 2921 2451 2921 2451 2925 2451 3016 2473 3152 2451 3152 2451 3155 2451 3155 2451 3155 2451 3159 2451 3159 2451 3221 2477 3225 2525 3225 2583 252 2590"/></Shape>
+	    <String CONTENT="into such close contact with her, and to share so much her sorrows and her"
+                    HPOS="245"
+                    VPOS="2451"
+                    WIDTH="2980"
+                    HEIGHT="139"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b23df1b4"
+                    
+                    BASELINE="247 2672 3034 2657" 
+                    HPOS="237"
+                    VPOS="2594"
+                    WIDTH="2794"
+                    HEIGHT="124">
+            <Shape><Polygon POINTS="245 2671 237 2623 1634 2594 1638 2594 3024 2609 3031 2656 3031 2707 245 2718"/></Shape>
+	    <String CONTENT="joys. Your loss we all know and share, and I trust that some day"
+                    HPOS="237"
+                    VPOS="2594"
+                    WIDTH="2794"
+                    HEIGHT="124"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_bca2e8ca"
+                    
+                    BASELINE="263 2811 3049 2788" 
+                    HPOS="252"
+                    VPOS="2722"
+                    WIDTH="2794"
+                    HEIGHT="146">
+            <Shape><Polygon POINTS="259 2810 252 2747 3035 2722 3046 2784 3046 2831 2237 2853 2234 2853 2036 2846 1894 2839 1864 2846 1828 2857 1824 2857 1824 2857 1821 2857 1821 2857 1733 2850 1619 2835 1579 2850 1561 2857 1561 2857 1557 2857 1557 2857 1554 2857 1554 2857 1554 2857 1521 2850 1455 2835 1389 2853 1367 2857 1363 2857 1363 2857 1360 2857 1360 2857 1360 2857 1327 2853 1246 2839 1225 2853 1217 2861 1214 2861 1214 2861 1214 2861 1210 2861 1210 2861 1210 2861 1206 2861 1118 2853 998 2846 961 2857 936 2864 932 2864 932 2864 932 2864 928 2864 928 2864 866 2857 745 2842 683 2861 654 2868 650 2868 650 2868 650 2868 647 2868 533 2861 299 2846 263 2864"/></Shape>
+	    <String CONTENT="the real heroism of Mrs. Stanford will be appreciated in its fullness, not"
+                    HPOS="252"
+                    VPOS="2722"
+                    WIDTH="2794"
+                    HEIGHT="146"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_45f0869a"
+                    
+                    BASELINE="255 2927 2526 2934" 
+                    HPOS="248"
+                    VPOS="2857"
+                    WIDTH="2275"
+                    HEIGHT="132">
+            <Shape><Polygon POINTS="252 2926 255 2857 314 2879 2519 2879 2523 2930 2515 2989 248 2981"/></Shape>
+	    <String CONTENT="only by the academic world, but by the people in general."
+                    HPOS="248"
+                    VPOS="2857"
+                    WIDTH="2275"
+                    HEIGHT="132"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_36203872"
+                    
+                    BASELINE="471 3065 1425 3073" 
+                    HPOS="464"
+                    VPOS="2992"
+                    WIDTH="958"
+                    HEIGHT="146">
+            <Shape><Polygon POINTS="468 3062 471 2992 530 3011 1415 3011 1422 3069 1415 3135 1053 3117 969 3135 947 3138 947 3138 947 3138 943 3138 943 3138 943 3138 939 3138 939 3138 939 3138 932 3135 892 3113 852 3135 848 3135 848 3135 848 3135 844 3135 844 3135 841 3135 841 3135 822 3135 632 3113 464 3131"/></Shape>
+	    <String CONTENT="With kind regards, I am,"
+                    HPOS="464"
+                    VPOS="2992"
+                    WIDTH="958"
+                    HEIGHT="146"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_161d3ab7"
+                    
+                    BASELINE="1779 3204 2202 3204" 
+                    HPOS="1773"
+                    VPOS="3117"
+                    WIDTH="428"
+                    HEIGHT="160">
+            <Shape><Polygon POINTS="1777 3201 1773 3146 1934 3117 1938 3117 2201 3146 2201 3201 2201 3252 1978 3252 1967 3255 1938 3277 1934 3277 1930 3277 1927 3277 1773 3259"/></Shape>
+	    <String CONTENT="Sincerely,"
+                    HPOS="1773"
+                    VPOS="3117"
+                    WIDTH="428"
+                    HEIGHT="160"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e674740c"
+                    
+                    BASELINE="1979 3396 2872 3365" 
+                    HPOS="1963"
+                    VPOS="3230"
+                    WIDTH="907"
+                    HEIGHT="285">
+            <Shape><Polygon POINTS="1978 3394 1963 3299 2069 3244 2073 3244 2077 3244 2080 3244 2084 3244 2153 3292 2164 3296 2248 3296 2259 3288 2336 3237 2340 3237 2344 3237 2347 3237 2351 3237 2420 3263 2464 3230 2468 3230 2472 3230 2475 3230 2574 3230 2578 3230 2581 3230 2640 3274 2647 3277 2859 3266 2870 3361 2863 3475 2749 3438 2497 3442 2446 3475 2439 3482 2435 3482 2431 3482 2428 3482 2351 3478 2318 3504 2318 3508 2314 3508 2311 3508 2128 3515 2124 3515 2120 3515 1971 3475"/></Shape>
+	    <String CONTENT="Lester J Hinsdale"
+                    HPOS="1963"
+                    VPOS="3230"
+                    WIDTH="907"
+                    HEIGHT="285"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
