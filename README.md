@@ -1,7 +1,7 @@
 # Projet_Git_HN1
 
 Ce projet a été réalisé par l'équipe composée de Ingrid GUIMARÃES, Yagmur OZTURK et Perrine MAUREL.
-Ce projet a été réalisé dans le cadre du Module "Fondamentaux de l’informatique" assuré Thibault CLÉRICE dans le cadre du Master 1 HN PSL à l'Ecole Nationale des Chartes.
+Ce projet a été réalisé dans le cadre du Module "Fondamentaux de l’informatique" assuré par Thibault CLÉRICE pour le Master 1 HN PSL à l'Ecole Nationale des Chartes.
 
 Le dépôt est composé de quatre dossiers, d'un rapport en .odt et d'un fichier README.md, la présente. Toutes les images sont au fichier .jpg, toutes les retranscriptions sont au format .xml ALTO.
 
