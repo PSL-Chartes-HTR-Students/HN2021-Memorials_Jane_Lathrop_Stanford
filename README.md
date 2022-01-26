@@ -14,4 +14,5 @@ Le troisième dossier nommé "Contributions_Perrine_MAUREL", attribué à Perrin
 Le quatrième dossier nommé "contributions_yagmur_ozturk", attribué à Yagmur OZTURK, contient deux sous-dossiers : le premier "ALTO-files" accueille les retranscriptions ainsi que leurs zones identifiers. Le second "Images" accueille les images sources. Les lettres sont numérotées.
 
 Les images utilisées pour la retrancription peuvent être retrouvées ici : https://fromthepage.com/stanforduniversityarchives/jls/memorials-1905
+
 Afin de télécharger des images de meilleure qualité, nous avons utilisé https://github.com/PonteIneptique/dl-ftpage#dl-ftpage script créé par Thibault CLÉRICE.
