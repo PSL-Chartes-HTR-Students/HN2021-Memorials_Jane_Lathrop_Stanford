@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use the data set, please cite it as below."
+authors:
+- family-names: 'Guimarães'
+  given-names: 'Ingrid'
+- family-names: 'Maurel'
+  given-names: 'Perrine'
+- family-names: 'Ozturk'
+  given-names: 'Yagmur'
+title: "Memorials for Jane Lathrop Stanford"
+version: 0.0.1
+date-released: 2022-02-15
+url: "https://github.com/PSL-Chartes-HTR-Students/HN2021-Memorials_Jane_Lathrop_Stanford"
+type: "data"
