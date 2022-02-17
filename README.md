@@ -1,6 +1,8 @@
 Memorials for Jane Lathrop Stanford
 ===================================
 
+[![DOI](https://zenodo.org/badge/431884683.svg)](https://zenodo.org/badge/latestdoi/431884683)
+
 Ce projet a été réalisé par l'équipe composée de Ingrid GUIMARÃES, Yagmur OZTURK et Perrine MAUREL.
 Ce projet a été réalisé dans le cadre du Module "Fondamentaux de l’informatique" assuré par Thibault CLÉRICE pour le Master 1 HN PSL à l'Ecole Nationale des Chartes.
 
