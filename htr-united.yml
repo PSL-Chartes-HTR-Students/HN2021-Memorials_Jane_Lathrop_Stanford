@@ -48,7 +48,6 @@ script:
   - iso: Latn
 script-type: evenly-mixed
 time:
-  notBefore: '1905'
   notAfter: '1905'
 hands:
   count: 1-per-file
@@ -91,4 +90,3 @@ transcription-guidelines: >-
   DefaultLine:Typewritten, DefaultLine:Signature et InterlinearLine:Handwritten.
   Cela permet de distinguer aisément les lignes manuscrites ou tapuscrites des
   en-têtes préimprimées des papiers à lettre.
-
