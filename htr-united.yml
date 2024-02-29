@@ -1,34 +1,116 @@
-schema: https://htr-united.github.io/schema/2023-06-27/schema.json
-title: Memorials for Jane Lathrop Stanford
-url: >-
-  https://github.com/PSL-Chartes-HTR-Students/HN2021-Memorials_Jane_Lathrop_Stanford
 authors:
-  - name: Ingrid
-    surname: Guimarães
-    roles:
-      - transcriber
-      - aligner
-  - name: Perrine
-    surname: Maurel
-    roles:
-      - transcriber
-      - aligner
-  - name: Yagmur
-    surname: Ozturk
-    roles:
-      - transcriber
-      - aligner
-  - name: Alix
-    surname: Chagué
-    orcid: 0000-0002-0136-4434
-    roles:
-      - quality-control
-  - name: Thibault
-    surname: Clérice
-    orcid: 0000-0003-1852-9204
-    roles:
-      - support
-institutions: []
+- name: Ingrid
+  roles:
+  - transcriber
+  - aligner
+  surname: Guimarães
+- name: Perrine
+  roles:
+  - transcriber
+  - aligner
+  surname: Maurel
+- name: Yagmur
+  roles:
+  - transcriber
+  - aligner
+  surname: Ozturk
+- name: Alix
+  orcid: 0000-0002-0136-4434
+  roles:
+  - quality-control
+  surname: Chagué
+- name: Thibault
+  orcid: 0000-0003-1852-9204
+  roles:
+  - support
+  surname: Clérice
+automatically-aligned: false
+characters:
+  members:
+  - e
+  - t
+  - r
+  - o
+  - a
+  - n
+  - i
+  - s
+  - h
+  - l
+  - .
+  - d
+  - f
+  - c
+  - u
+  - y
+  - m
+  - ','
+  - S
+  - M
+  - w
+  - p
+  - g
+  - b
+  - C
+  - I
+  - v
+  - R
+  - A
+  - E
+  - D
+  - F
+  - P
+  - T
+  - k
+  - O
+  - L
+  - N
+  - W
+  - '1'
+  - B
+  - J
+  - H
+  - '2'
+  - '-'
+  - U
+  - '0'
+  - G
+  - Y
+  - '5'
+  - '9'
+  - ':'
+  - "'"
+  - q
+  - x
+  - V
+  - '3'
+  - K
+  - '4'
+  - ᗅ
+  - '8'
+  - '7'
+  - (
+  - )
+  - j
+  - ^
+  - '"'
+  - '&'
+  - z
+  - '6'
+  - '?'
+  - ⟦
+  - ⟧
+  - ᗞ
+  - Q
+  - ;
+  - ᑕ
+  - $
+  - +
+  - '*'
+  - Z
+  mode: NFD
+citation-file-link: >-
+  https://github.com/PSL-Chartes-HTR-Students/HN2021-Memorials_Jane_Lathrop_Stanford/main/CITATION.CFF
 description: >-
   "Les données sources ont été téléversées sur le site From the page par les
   Archives de l’Université Stanford qui en sont les propriétaires. Elles ont
@@ -39,35 +121,26 @@ description: >-
   lettres : 42, 43, 46, 49, 50, 54, 57 à 60, 69, 75, 76 [section 1,
   retranscrites par Perrine MAUREL] ; 80 à 93 [section 2, retranscrites par
   Ingrid GUIMARÃES] ; 241 à 242  [section 3, retranscrites par Yagmur OZTURK].
-project-name: ENC - Bonnes pratiques du developpement collaboratif
-language:
-  - eng
-production-software: eScriptorium + Kraken
-automatically-aligned: false
-script:
-  - iso: Latn
-script-type: evenly-mixed
-time:
-  notBefore: '1905'
-  notAfter: '1905'
+format: Alto-XML
 hands:
   count: 1-per-file
   precision: estimated
+institutions: []
+language:
+- eng
 license:
   name: CC-BY 4.0
   url: https://creativecommons.org/licenses/by/4.0/
-format: Alto-XML
-volume:
-  - count: 18063
-    metric: characters
-  - count: 41
-    metric: files
-  - count: 770
-    metric: lines
-  - count: 51
-    metric: regions
-citation-file-link: >-
-  https://github.com/PSL-Chartes-HTR-Students/HN2021-Memorials_Jane_Lathrop_Stanford/main/CITATION.CFF
+production-software: eScriptorium + Kraken
+project-name: ENC - Bonnes pratiques du developpement collaboratif
+schema: https://htr-united.github.io/schema/2023-06-27/schema.json
+script:
+- iso: Latn
+script-type: evenly-mixed
+time:
+  notAfter: '1905'
+  notBefore: '1905'
+title: Memorials for Jane Lathrop Stanford
 transcription-guidelines: >-
   Notre retranscription en elle-même a cherché à retranscrire le texte ipsis
   litteris, sans le corriger, en conservant donc les erreurs éventuelles
@@ -91,4 +164,14 @@ transcription-guidelines: >-
   DefaultLine:Typewritten, DefaultLine:Signature et InterlinearLine:Handwritten.
   Cela permet de distinguer aisément les lignes manuscrites ou tapuscrites des
   en-têtes préimprimées des papiers à lettre.
-
+url: >-
+  https://github.com/PSL-Chartes-HTR-Students/HN2021-Memorials_Jane_Lathrop_Stanford
+volume:
+- count: 18323
+  metric: characters
+- count: 41
+  metric: files
+- count: 774
+  metric: lines
+- count: 50
+  metric: regions
