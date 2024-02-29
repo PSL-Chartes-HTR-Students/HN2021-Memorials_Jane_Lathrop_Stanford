@@ -58,8 +58,14 @@ license:
   url: https://creativecommons.org/licenses/by/4.0/
 format: Alto-XML
 volume:
-  - metric: files
-    count: 41
+  - count: 18063
+    metric: characters
+  - count: 41
+    metric: files
+  - count: 770
+    metric: lines
+  - count: 51
+    metric: regions
 citation-file-link: >-
   https://github.com/PSL-Chartes-HTR-Students/HN2021-Memorials_Jane_Lathrop_Stanford/main/CITATION.CFF
 transcription-guidelines: >-
