@@ -12,7 +12,7 @@
   
   <Tags>
     
-    <OtherTag ID="LT1" LABEL="Main" DESCRIPTION="line type Main"/><OtherTag ID="LT3" LABEL="Correction" DESCRIPTION="line type Correction"/>
+    <OtherTag ID="LT4569" LABEL="InterlinearLine:Handwritten" DESCRIPTION="line type InterlinearLine:Handwritten"/><OtherTag ID="LT4567" LABEL="DefaultLine:Typewritten" DESCRIPTION="line type DefaultLine:Typewritten"/><OtherTag ID="LT4566" LABEL="DefaultLine:Handwritten" DESCRIPTION="line type DefaultLine:Handwritten"/><OtherTag ID="LT4565" LABEL="DefaultLine:Print" DESCRIPTION="line type DefaultLine:Print"/><OtherTag ID="LT4568" LABEL="DefaultLine:Signature" DESCRIPTION="line type DefaultLine:Signature"/>
   </Tags>
   
   <Layout>
@@ -31,7 +31,7 @@
           
           
           <TextLine ID="eSc_line_36f201ef"
-                    
+                    TAGREFS="LT4567"
                     BASELINE="1424 535 1643 535" 
                     HPOS="1423"
                     VPOS="423"
@@ -48,7 +48,7 @@
           
           
           <TextLine ID="eSc_line_8315daa6"
-                    
+                    TAGREFS="LT4567"
                     BASELINE="1789 739 2249 739" 
                     HPOS="1784"
                     VPOS="643"
@@ -65,7 +65,7 @@
           
           
           <TextLine ID="eSc_line_7c1221eb"
-                    
+                    TAGREFS="LT4567"
                     BASELINE="585 1002 1184 1002" 
                     HPOS="584"
                     VPOS="895"
@@ -82,14 +82,14 @@
           
           
           <TextLine ID="eSc_line_dd36e3e3"
-                    
+                    TAGREFS="LT4567"
                     BASELINE="753 1119 1519 1133" 
                     HPOS="745"
                     VPOS="1049"
                     WIDTH="773"
                     HEIGHT="129">
             <Shape><Polygon POINTS="752 1115 748 1066 955 1052 958 1052 958 1052 958 1052 962 1052 962 1052 962 1052 997 1070 1000 1073 1004 1070 1039 1049 1042 1049 1042 1049 1046 1049 1046 1049 1046 1049 1049 1049 1049 1049 1053 1049 1053 1049 1053 1049 1101 1073 1105 1077 1262 1077 1266 1077 1322 1052 1322 1052 1325 1052 1325 1052 1325 1052 1329 1052 1329 1052 1518 1084 1518 1129 1511 1178 745 1175"/></Shape>
-	    <String CONTENT="St. Patricks&#39;s Seminary,"
+	    <String CONTENT="St. Patricks&#x27;s Seminary,"
                     HPOS="745"
                     VPOS="1049"
                     WIDTH="773"
@@ -98,25 +98,8 @@
 
           
           
-          <TextLine ID="eSc_line_19de7716"
-                    
-                    BASELINE="914 1265 1439 1265" 
-                    HPOS="909"
-                    VPOS="1213"
-                    WIDTH="528"
-                    HEIGHT="105">
-            <Shape><Polygon POINTS="913 1262 913 1213 1437 1217 1437 1262 1434 1318 909 1311"/></Shape>
-	    <String CONTENT="Menlo Park, Cal."
-                    HPOS="909"
-                    VPOS="1213"
-                    WIDTH="528"
-                    HEIGHT="105"></String>
-          </TextLine>
-
-          
-          
           <TextLine ID="eSc_line_3be3ea2e"
-                    
+                    TAGREFS="LT4567"
                     BASELINE="585 1389 1001 1396" 
                     HPOS="580"
                     VPOS="1315"
@@ -132,8 +115,25 @@
 
           
           
+          <TextLine ID="eSc_line_19de7716"
+                    TAGREFS="LT4567"
+                    BASELINE="914 1265 1439 1265" 
+                    HPOS="909"
+                    VPOS="1213"
+                    WIDTH="528"
+                    HEIGHT="105">
+            <Shape><Polygon POINTS="913 1262 913 1213 1437 1217 1437 1262 1434 1318 909 1311"/></Shape>
+	    <String CONTENT="Menlo Park, Cal."
+                    HPOS="909"
+                    VPOS="1213"
+                    WIDTH="528"
+                    HEIGHT="105"></String>
+          </TextLine>
+
+          
+          
           <TextLine ID="eSc_line_c5aeedae"
-                    
+                    TAGREFS="LT4567"
                     BASELINE="986 1535 2702 1527" 
                     HPOS="972"
                     VPOS="1448"
@@ -150,7 +150,7 @@
           
           
           <TextLine ID="eSc_line_7c8ff50d"
-                    
+                    TAGREFS="LT4567"
                     BASELINE="585 1666 2753 1666" 
                     HPOS="580"
                     VPOS="1598"
@@ -167,7 +167,7 @@
           
           
           <TextLine ID="eSc_line_82d76d73"
-                    
+                    TAGREFS="LT4567"
                     BASELINE="585 1790 2811 1790" 
                     HPOS="580"
                     VPOS="1738"
@@ -184,14 +184,14 @@
           
           
           <TextLine ID="eSc_line_c574e923"
-                    
+                    TAGREFS="LT4567"
                     BASELINE="600 1921 3005 1936" 
                     HPOS="598"
                     VPOS="1868"
                     WIDTH="2403"
                     HEIGHT="112">
             <Shape><Polygon POINTS="598 1920 598 1868 3001 1871 3001 1934 2998 1980 598 1980"/></Shape>
-	    <String CONTENT="Patrick&#39;s Seminary attend the funeral of Mrs. Stanford and act as honorary"
+	    <String CONTENT="Patrick&#x27;s Seminary attend the funeral of Mrs. Stanford and act as honorary"
                     HPOS="598"
                     VPOS="1868"
                     WIDTH="2403"
@@ -201,7 +201,7 @@
           
           
           <TextLine ID="eSc_line_fd1dfb83"
-                    
+                    TAGREFS="LT4567"
                     BASELINE="607 2075 2899 2060" 
                     HPOS="598"
                     VPOS="2004"
@@ -218,14 +218,14 @@
           
           
           <TextLine ID="eSc_line_e347b180"
-                    
+                    TAGREFS="LT4567"
                     BASELINE="578 2199 2804 2199" 
                     HPOS="573"
                     VPOS="2137"
                     WIDTH="2229"
                     HEIGHT="115">
             <Shape><Polygon POINTS="577 2196 573 2151 2798 2137 2802 2196 2802 2235 577 2252"/></Shape>
-	    <String CONTENT="noon of Friday, March 24th, the exercises beginning at 1:30 o&#39;clock."
+	    <String CONTENT="noon of Friday, March 24th, the exercises beginning at 1:30 o&#x27;clock."
                     HPOS="573"
                     VPOS="2137"
                     WIDTH="2229"
@@ -235,7 +235,7 @@
           
           
           <TextLine ID="eSc_line_8c996028"
-                    
+                    TAGREFS="LT4567"
                     BASELINE="593 2330 2899 2330" 
                     HPOS="587"
                     VPOS="2270"
@@ -252,41 +252,24 @@
           
           
           <TextLine ID="eSc_line_fa171c89"
-                    
-                    BASELINE="600 2461 1614 2454" 
-                    HPOS="587"
-                    VPOS="2392"
-                    WIDTH="1025"
-                    HEIGHT="126">
-            <Shape><Polygon POINTS="598 2459 587 2417 664 2396 668 2396 668 2396 671 2396 671 2396 671 2396 675 2396 727 2413 731 2413 731 2413 783 2396 787 2396 787 2396 787 2396 790 2396 790 2396 794 2396 794 2396 839 2413 843 2413 867 2413 1098 2392 1101 2392 1101 2392 1101 2392 1105 2392 1105 2392 1105 2392 1136 2410 1140 2410 1140 2410 1185 2392 1185 2392 1189 2392 1189 2392 1192 2392 1192 2392 1192 2392 1196 2392 1196 2392 1196 2392 1227 2410 1231 2410 1602 2406 1612 2452 1609 2494 1220 2515 1217 2515 1217 2515 1161 2504 1112 2497 1091 2508 1070 2518 1070 2518 1070 2518 1066 2518 1066 2518 1063 2518 1063 2518 1063 2518 1059 2518 1059 2518 1059 2518 1056 2518 1056 2518 1046 2508 1035 2501 920 2511 832 2518 829 2518 829 2518 780 2515 640 2501 601 2518"/></Shape>
+                    TAGREFS="LT4567"
+                    BASELINE="595 2480 1614 2480" 
+                    HPOS="594"
+                    VPOS="2396"
+                    WIDTH="1018"
+                    HEIGHT="133">
+            <Shape><Polygon POINTS="594 2508 766 2501 818 2511 857 2518 860 2518 864 2518 892 2511 944 2497 1108 2508 1322 2525 1325 2525 1329 2525 1392 2508 1406 2504 1420 2508 1497 2529 1500 2529 1504 2529 1609 2504 1612 2476 1609 2403 1297 2420 1049 2420 1021 2406 1000 2396 997 2396 993 2396 990 2396 955 2406 923 2413 871 2406 797 2396 794 2396 598 2406 598 2459"/></Shape>
 	    <String CONTENT="sentatives as soon as possible ?"
-                    HPOS="587"
-                    VPOS="2392"
-                    WIDTH="1025"
-                    HEIGHT="126"></String>
-          </TextLine>
-
-          
-          
-          <TextLine ID="eSc_line_83be5c88"
-                    
-                    BASELINE="1702 2469 1724 2469 1767 2469 1877 2469 2125 2469 2578 2469 2745 2469 2753 2461 2921 2461" 
-                    HPOS="1696"
-                    VPOS="2403"
-                    WIDTH="1221"
-                    HEIGHT="115">
-            <Shape><Polygon POINTS="1700 2466 1696 2403 2914 2403 2917 2459 2907 2518 2872 2501 1700 2515"/></Shape>
-	    <String CONTENT="All honorary pallbearers are requested"
-                    HPOS="1696"
-                    VPOS="2403"
-                    WIDTH="1221"
-                    HEIGHT="115"></String>
+                    HPOS="594"
+                    VPOS="2396"
+                    WIDTH="1018"
+                    HEIGHT="133"></String>
           </TextLine>
 
           
           
           <TextLine ID="eSc_line_c1e546e0"
-                    
+                    TAGREFS="LT4567"
                     BASELINE="585 2593 2877 2593" 
                     HPOS="584"
                     VPOS="2543"
@@ -302,59 +285,59 @@
 
           
           
-          <TextLine ID="eSc_line_fa06c28e"
-                    
-                    BASELINE="607 2717 1826 2731" 
-                    HPOS="601"
-                    VPOS="2655"
+          <TextLine ID="eSc_line_83be5c88"
+                    TAGREFS="LT4567"
+                    BASELINE="1702 2469 1724 2469 1767 2469 1877 2469 2125 2469 2578 2469 2745 2469 2753 2461 2921 2461" 
+                    HPOS="1696"
+                    VPOS="2403"
                     WIDTH="1221"
-                    HEIGHT="147">
-            <Shape><Polygon POINTS="605 2714 605 2655 1819 2679 1822 2728 1815 2777 1707 2774 1693 2777 1654 2795 1654 2795 1651 2795 1651 2795 1651 2795 1647 2795 1647 2795 1525 2777 1458 2770 1444 2777 1420 2802 1420 2802 1416 2802 1416 2802 1416 2802 1413 2802 1413 2802 1413 2802 1409 2802 1409 2802 1406 2802 1406 2802 1406 2802 1402 2802 1402 2802 1402 2798 1385 2784 1364 2802 1364 2802 1360 2802 1360 2802 1360 2802 1357 2802 1357 2802 1353 2802 1353 2802 1353 2802 1252 2777 1213 2770 1203 2777 1178 2798 1178 2798 1175 2798 1175 2798 1175 2798 1171 2798 1171 2798 1168 2798 1168 2798 1168 2798 1164 2798 1164 2798 1164 2798 1161 2798 1136 2777 1122 2770 1105 2777 1066 2798 1066 2798 1066 2798 1063 2798 1063 2798 1063 2802 913 2802 909 2798 909 2798 906 2798 906 2798 906 2798 902 2798 902 2798 881 2777 871 2774 864 2777 846 2795 846 2795 843 2795 843 2795 843 2795 839 2795 839 2795 836 2795 836 2795 836 2795 832 2795 780 2777 759 2774 601 2777"/></Shape>
-	    <String CONTENT="the inner Qudrangle, not later than 1"
-                    HPOS="601"
-                    VPOS="2655"
+                    HEIGHT="115">
+            <Shape><Polygon POINTS="1700 2466 1696 2403 2914 2403 2917 2459 2907 2518 2872 2501 1700 2515"/></Shape>
+	    <String CONTENT="All honorary pallbearers are requested"
+                    HPOS="1696"
+                    VPOS="2403"
                     WIDTH="1221"
-                    HEIGHT="147"></String>
+                    HEIGHT="115"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d67480fb"
+                    TAGREFS="LT4567"
+                    BASELINE="607 2717 1826 2731 1957 2731 2804 2731" 
+                    HPOS="605"
+                    VPOS="2658"
+                    WIDTH="2197"
+                    HEIGHT="137">
+            <Shape><Polygon POINTS="605 2714 605 2781 755 2770 815 2784 839 2788 843 2788 846 2788 850 2788 853 2784 874 2774 885 2784 888 2784 888 2788 892 2788 895 2788 1070 2791 1073 2791 1077 2791 1098 2784 1133 2774 1147 2784 1154 2791 1157 2791 1161 2791 1164 2791 1168 2791 1185 2784 1227 2770 1364 2788 1420 2791 1423 2791 1462 2788 1567 2770 1637 2788 1665 2795 1668 2795 1672 2795 1675 2795 1679 2795 1689 2788 1717 2770 1857 2770 2795 2791 2802 2728 2798 2683 605 2658 605 2714"/></Shape>
+	    <String CONTENT="the inner Quadrangle, not later tan 1 ⟦⟧ on the day of the funeral."
+                    HPOS="605"
+                    VPOS="2658"
+                    WIDTH="2197"
+                    HEIGHT="137"></String>
           </TextLine>
 
           
           
           <TextLine ID="eSc_line_d6b87d62"
-                    
-                    BASELINE="1819 2659 2103 2659" 
-                    HPOS="1815"
-                    VPOS="2613"
-                    WIDTH="287"
+                    TAGREFS="LT4569"
+                    BASELINE="1819 2654 2103 2659" 
+                    HPOS="1812"
+                    VPOS="2609"
+                    WIDTH="290"
                     HEIGHT="98">
-            <Shape><Polygon POINTS="1815 2658 1815 2613 2102 2613 2102 2658 2102 2711 1815 2711"/></Shape>
-	    <String CONTENT="o&#39;clock"
-                    HPOS="1815"
-                    VPOS="2613"
-                    WIDTH="287"
+            <Shape><Polygon POINTS="1815 2651 1812 2700 2095 2707 2102 2658 2099 2609 1815 2609 1815 2651"/></Shape>
+	    <String CONTENT="o&#x27;clock"
+                    HPOS="1812"
+                    VPOS="2609"
+                    WIDTH="290"
                     HEIGHT="98"></String>
           </TextLine>
 
           
           
-          <TextLine ID="eSc_line_0caffb4d"
-                    
-                    BASELINE="1957 2731 2804 2731" 
-                    HPOS="1952"
-                    VPOS="2683"
-                    WIDTH="850"
-                    HEIGHT="105">
-            <Shape><Polygon POINTS="1955 2728 1955 2683 2802 2683 2802 2728 2798 2788 1952 2770"/></Shape>
-	    <String CONTENT="on the day of the funeral."
-                    HPOS="1952"
-                    VPOS="2683"
-                    WIDTH="850"
-                    HEIGHT="105"></String>
-          </TextLine>
-
-          
-          
           <TextLine ID="eSc_line_546aa609"
-                    
+                    TAGREFS="LT4567"
                     BASELINE="1709 2856 2242 2863" 
                     HPOS="1700"
                     VPOS="2798"
@@ -371,7 +354,7 @@
           
           
           <TextLine ID="eSc_line_fbb8a14b"
-                    
+                    TAGREFS="LT4567"
                     BASELINE="1965 3118 2723 3126" 
                     HPOS="1952"
                     VPOS="3054"

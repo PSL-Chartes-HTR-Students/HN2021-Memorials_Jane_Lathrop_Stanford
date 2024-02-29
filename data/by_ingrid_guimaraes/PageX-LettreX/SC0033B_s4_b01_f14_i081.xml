@@ -11,14 +11,14 @@
   </Description>
   
   <Tags>
-    <OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT3" LABEL="Commentary" DESCRIPTION="block type Commentary"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/>
-    <OtherTag ID="LT1" LABEL="Main" DESCRIPTION="line type Main"/><OtherTag ID="LT2" LABEL="Numbering" DESCRIPTION="line type Numbering"/><OtherTag ID="LT4" LABEL="Signature" DESCRIPTION="line type Signature"/>
+    
+    <OtherTag ID="LT4574" LABEL="InterlinearLine:Handwritten" DESCRIPTION="line type InterlinearLine:Handwritten"/><OtherTag ID="LT4573" LABEL="DefaultLine:Signature" DESCRIPTION="line type DefaultLine:Signature"/><OtherTag ID="LT4572" LABEL="DefaultLine:Typewritten" DESCRIPTION="line type DefaultLine:Typewritten"/><OtherTag ID="LT4571" LABEL="DefaultLine:Handwritten" DESCRIPTION="line type DefaultLine:Handwritten"/><OtherTag ID="LT4570" LABEL="DefaultLine:Print" DESCRIPTION="line type DefaultLine:Print"/>
   </Tags>
   
   <Layout>
     <Page WIDTH="2963"
           HEIGHT="3837"
-          PHYSICAL_IMG_NR="1"
+          PHYSICAL_IMG_NR="13"
           ID="eSc_dummypage_">
       <PrintSpace HPOS="0"
                   VPOS="0"
@@ -31,24 +31,24 @@
           
           
           <TextLine ID="eSc_line_d3eac567"
-                    
-                    BASELINE="1649 629 2752 650" 
+                    TAGREFS="LT4572"
+                    BASELINE="1649 629 2752 631" 
                     HPOS="1644"
-                    VPOS="511"
-                    WIDTH="1111"
-                    HEIGHT="160">
-            <Shape><Polygon POINTS="1647 626 1644 533 1798 511 1798 511 1801 511 1801 511 1804 511 1804 511 1868 537 1878 543 2156 546 2175 543 2278 521 2278 521 2278 521 2281 521 2422 524 2422 524 2422 524 2425 524 2425 524 2428 524 2428 524 2428 527 2454 549 2457 553 2467 549 2534 527 2537 527 2537 527 2537 527 2540 527 2540 527 2540 527 2543 527 2543 527 2547 527 2547 527 2547 530 2572 553 2575 556 2659 556 2668 553 2694 537 2697 537 2697 537 2700 537 2700 537 2700 537 2703 537 2703 537 2707 537 2707 537 2755 556 2751 649 2748 655 2444 671 2441 671 2441 671 2441 671 2438 671 2438 671 2435 671 2435 671 2435 668 2431 668 2419 652 2419 652 2419 652 2377 668 2377 668 2374 668 2374 668 2371 668 2371 668 2367 668 2303 652 2287 665 2287 668 2287 668 2284 668 2284 668 2284 668 2281 668 2281 668 2281 668 2278 668 2278 668 2175 649 2159 649 2147 649 2073 661 2073 661 2070 661 2070 661 2070 661 2067 661 2067 661 2038 649 2028 645 1644 645"/></Shape>
+                    VPOS="521"
+                    WIDTH="1107"
+                    HEIGHT="144">
+            <Shape><Polygon POINTS="1647 626 1644 645 1737 645 1740 645 1766 665 1769 665 1772 665 1775 665 1779 665 1846 645 1855 645 2025 645 2035 649 2067 665 2070 665 2073 665 2150 649 2163 649 2179 649 2278 665 2281 665 2284 665 2287 665 2287 661 2300 652 2307 645 2351 652 2438 665 2441 665 2748 655 2751 629 2751 549 2569 549 2566 546 2543 524 2543 521 2540 521 2537 521 2534 521 2531 521 2527 521 2495 546 2489 546 2419 521 2415 521 2217 521 2214 521 2211 521 2169 540 2156 549 1887 549 1862 537 1820 521 1817 521 1814 521 1647 533 1647 626"/></Shape>
 	    <String CONTENT="San Francisco, March 21, 1905."
                     HPOS="1644"
-                    VPOS="511"
-                    WIDTH="1111"
-                    HEIGHT="160"></String>
+                    VPOS="521"
+                    WIDTH="1107"
+                    HEIGHT="144"></String>
           </TextLine>
 
           
           
           <TextLine ID="eSc_line_e624054e"
-                    
+                    TAGREFS="LT4572"
                     BASELINE="300 1000 1016 1017" 
                     HPOS="297"
                     VPOS="863"
@@ -65,7 +65,7 @@
           
           
           <TextLine ID="eSc_line_e3e94f01"
-                    
+                    TAGREFS="LT4572"
                     BASELINE="715 1125 1311 1144" 
                     HPOS="707"
                     VPOS="1023"
@@ -82,7 +82,7 @@
           
           
           <TextLine ID="eSc_line_ee1d2983"
-                    
+                    TAGREFS="LT4572"
                     BASELINE="992 1248 1688 1270" 
                     HPOS="985"
                     VPOS="1138"
@@ -99,14 +99,14 @@
           
           
           <TextLine ID="eSc_line_cd5f7028"
-                    
+                    TAGREFS="LT4572"
                     BASELINE="294 1475 662 1482" 
                     HPOS="284"
                     VPOS="1371"
                     WIDTH="375"
                     HEIGHT="128">
             <Shape><Polygon POINTS="291 1474 291 1371 655 1374 659 1480 652 1499 284 1493"/></Shape>
-	    <String CONTENT="Dear Sir:"
+	    <String CONTENT="Dear Sir:-"
                     HPOS="284"
                     VPOS="1371"
                     WIDTH="375"
@@ -116,7 +116,7 @@
           
           
           <TextLine ID="eSc_line_7c3e488e"
-                    
+                    TAGREFS="LT4572"
                     BASELINE="1378 1369 1721 1373" 
                     HPOS="1366"
                     VPOS="1272"
@@ -133,7 +133,7 @@
           
           
           <TextLine ID="eSc_line_5a67748e"
-                    
+                    TAGREFS="LT4572"
                     BASELINE="628 1594 2686 1639" 
                     HPOS="623"
                     VPOS="1490"
@@ -150,7 +150,7 @@
           
           
           <TextLine ID="eSc_line_dfa29c24"
-                    
+                    TAGREFS="LT4572"
                     BASELINE="288 1702 2733 1761" 
                     HPOS="284"
                     VPOS="1611"
@@ -167,7 +167,7 @@
           
           
           <TextLine ID="eSc_line_df817abb"
-                    
+                    TAGREFS="LT4572"
                     BASELINE="283 1821 1681 1852" 
                     HPOS="275"
                     VPOS="1729"
@@ -184,14 +184,14 @@
           
           
           <TextLine ID="eSc_line_e22ef497"
-                    
+                    TAGREFS="LT4572"
                     BASELINE="618 1947 2917 1988" 
                     HPOS="607"
                     VPOS="1835"
                     WIDTH="2308"
                     HEIGHT="182">
             <Shape><Polygon POINTS="617 1944 607 1854 639 1835 643 1835 643 1835 643 1835 646 1835 646 1835 649 1835 780 1835 780 1835 780 1835 783 1835 783 1835 841 1860 854 1864 867 1860 927 1838 931 1838 931 1838 931 1838 934 1838 1395 1860 1503 1848 1503 1848 1507 1848 1622 1851 1622 1851 1622 1851 1625 1851 1625 1851 1628 1851 1628 1851 1660 1876 1667 1880 1763 1880 2095 1873 2099 1873 2099 1873 2195 1889 2227 1892 2326 1892 2335 1892 2383 1867 2383 1867 2383 1867 2387 1867 2387 1867 2390 1867 2390 1867 2393 1867 2393 1867 2393 1867 2447 1892 2454 1896 2479 1896 2614 1883 2614 1883 2617 1883 2617 1883 2620 1883 2620 1883 2620 1883 2652 1899 2655 1899 2659 1899 2742 1873 2745 1873 2745 1873 2745 1873 2748 1873 2748 1873 2915 1905 2915 1985 2908 1998 2659 1998 2563 2017 2563 2017 2563 2017 2559 2017 2207 1988 2163 2008 2163 2008 2159 2008 2159 2008 2159 2011 2057 2011 2054 2008 2054 2008 2051 2008 2051 2008 2051 2008 2009 1985 1945 2004 1942 2004 1942 2004 1942 2004 1939 2004 1939 2004 1935 2004 1852 1982 1535 1998 1532 1998 1532 1998 1532 1998 1529 1998 1455 1976 1327 1995 1327 1995 1327 1995 1324 1995 985 1969 796 1985 796 1985 793 1985 793 1985 614 1956"/></Shape>
-	    <String CONTENT="I appreciate very much this honor, and will be at Mrs. Stanford&#39;s"
+	    <String CONTENT="I appreciate very much this honor, and will be at Mrs. Stanford&#x27;s"
                     HPOS="607"
                     VPOS="1835"
                     WIDTH="2308"
@@ -201,7 +201,7 @@
           
           
           <TextLine ID="eSc_line_3c452c5c"
-                    
+                    TAGREFS="LT4572"
                     BASELINE="277 2057 2547 2104" 
                     HPOS="268"
                     VPOS="1972"
@@ -218,7 +218,7 @@
           
           
           <TextLine ID="eSc_line_d893936c"
-                    
+                    TAGREFS="LT4572"
                     BASELINE="1222 2193 1548 2200" 
                     HPOS="1212"
                     VPOS="2103"
@@ -235,7 +235,7 @@
           
           
           <TextLine ID="eSc_line_5cdad7e7"
-                    
+                    TAGREFS="LT4572"
                     BASELINE="1393 2311 1997 2330" 
                     HPOS="1388"
                     VPOS="2215"
@@ -252,7 +252,7 @@
           
           
           <TextLine ID="eSc_line_c600a29a"
-                    
+                    TAGREFS="LT4572"
                     BASELINE="1743 2454 2326 2463" 
                     HPOS="1737"
                     VPOS="2343"
@@ -269,7 +269,7 @@
           
           
           <TextLine ID="eSc_line_1720de92"
-                    
+                    TAGREFS="LT4572"
                     BASELINE="2000 2572 2415 2579" 
                     HPOS="1993"
                     VPOS="2474"

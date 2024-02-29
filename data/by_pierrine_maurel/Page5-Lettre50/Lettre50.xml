@@ -10,10 +10,15 @@
     </sourceImageInformation>
   </Description>
   
+  <Tags>
+    
+    <OtherTag ID="LT4569" LABEL="InterlinearLine:Handwritten" DESCRIPTION="line type InterlinearLine:Handwritten"/><OtherTag ID="LT4567" LABEL="DefaultLine:Typewritten" DESCRIPTION="line type DefaultLine:Typewritten"/><OtherTag ID="LT4566" LABEL="DefaultLine:Handwritten" DESCRIPTION="line type DefaultLine:Handwritten"/><OtherTag ID="LT4565" LABEL="DefaultLine:Print" DESCRIPTION="line type DefaultLine:Print"/><OtherTag ID="LT4568" LABEL="DefaultLine:Signature" DESCRIPTION="line type DefaultLine:Signature"/>
+  </Tags>
+  
   <Layout>
     <Page WIDTH="3266"
           HEIGHT="4278"
-          PHYSICAL_IMG_NR="0"
+          PHYSICAL_IMG_NR="2"
           ID="eSc_dummypage_">
       <PrintSpace HPOS="0"
                   VPOS="0"
@@ -26,14 +31,14 @@
           
           
           <TextLine ID="eSc_line_3aa3bdfd"
-                    
+                    TAGREFS="LT4565"
                     BASELINE="197 114 456 114" 
                     HPOS="192"
                     VPOS="32"
                     WIDTH="260"
                     HEIGHT="131">
             <Shape><Polygon POINTS="196 110 192 60 449 32 452 110 452 142 196 163"/></Shape>
-	    <String CONTENT="(I-I4-O5--5M.)"
+	    <String CONTENT="(I-I4-O5-5M.)"
                     HPOS="192"
                     VPOS="32"
                     WIDTH="260"
@@ -43,7 +48,7 @@
           
           
           <TextLine ID="eSc_line_6b73fb7c"
-                    
+                    TAGREFS="LT4565"
                     BASELINE="2925 109 3177 114" 
                     HPOS="2916"
                     VPOS="39"
@@ -60,7 +65,7 @@
           
           
           <TextLine ID="eSc_line_ccc420bc"
-                    
+                    TAGREFS="LT4565"
                     BASELINE="172 247 414 256" 
                     HPOS="167"
                     VPOS="160"
@@ -77,14 +82,14 @@
           
           
           <TextLine ID="eSc_line_4370e217"
-                    
+                    TAGREFS="LT4567"
                     BASELINE="535 243 1457 256" 
                     HPOS="527"
                     VPOS="160"
                     WIDTH="927"
                     HEIGHT="135">
             <Shape><Polygon POINTS="534 242 534 188 691 188 698 185 738 160 741 160 741 160 741 160 745 160 745 160 748 160 748 160 748 160 869 185 902 192 941 185 994 174 994 174 994 174 998 174 1116 185 1201 192 1215 185 1233 167 1233 167 1237 167 1237 167 1237 167 1240 167 1240 167 1244 167 1322 167 1322 167 1322 167 1326 167 1326 167 1326 167 1329 167 1329 171 1347 185 1358 192 1451 185 1454 253 1447 295 527 281"/></Shape>
-	    <String CONTENT="Mrs. Stanford&#39;s Funeral."
+	    <String CONTENT="Mrs. Stanford&#x27;s Funeral."
                     HPOS="527"
                     VPOS="160"
                     WIDTH="927"
@@ -94,7 +99,7 @@
           
           
           <TextLine ID="eSc_line_6d058f33"
-                    
+                    TAGREFS="LT4565"
                     BASELINE="185 470 386 470" 
                     HPOS="181"
                     VPOS="420"
@@ -110,25 +115,8 @@
 
           
           
-          <TextLine ID="eSc_line_56aa015f"
-                    
-                    BASELINE="1070 411 2255 411" 
-                    HPOS="1066"
-                    VPOS="338"
-                    WIDTH="1187"
-                    HEIGHT="132">
-            <Shape><Polygon POINTS="1069 409 1066 342 2249 338 2253 409 2253 449 2167 467 2167 467 2167 467 2164 467 2164 467 2160 467 2103 452 2075 445 2060 452 2039 467 2035 467 2035 467 2032 467 2032 467 2032 467 2028 467 2028 467 2028 467 2025 467 2025 467 2025 467 2021 467 2021 467 2007 452 2000 445 1436 445 1411 463 1408 467 1408 467 1404 467 1404 467 1404 467 1401 467 1401 467 1401 470 1069 470"/></Shape>
-	    <String CONTENT="SOUTHERN PACIFIC COMPANY."
-                    HPOS="1066"
-                    VPOS="338"
-                    WIDTH="1187"
-                    HEIGHT="132"></String>
-          </TextLine>
-
-          
-          
           <TextLine ID="eSc_line_fa6d88f5"
-                    
+                    TAGREFS="LT4565"
                     BASELINE="235 512 619 512" 
                     HPOS="228"
                     VPOS="427"
@@ -144,25 +132,25 @@
 
           
           
-          <TextLine ID="eSc_line_e28a72d8"
-                    
-                    BASELINE="1446 478 1888 462" 
-                    HPOS="1436"
-                    VPOS="417"
-                    WIDTH="450"
-                    HEIGHT="82">
-            <Shape><Polygon POINTS="1444 477 1436 424 1875 417 1886 459 1886 484 1444 499"/></Shape>
-	    <String CONTENT="(PACIFIC SYSTEM.)"
-                    HPOS="1436"
-                    VPOS="417"
-                    WIDTH="450"
-                    HEIGHT="82"></String>
+          <TextLine ID="eSc_line_56aa015f"
+                    TAGREFS="LT4565"
+                    BASELINE="1070 411 2255 411" 
+                    HPOS="1066"
+                    VPOS="338"
+                    WIDTH="1187"
+                    HEIGHT="132">
+            <Shape><Polygon POINTS="1069 409 1066 342 2249 338 2253 409 2253 449 2167 467 2167 467 2167 467 2164 467 2164 467 2160 467 2103 452 2075 445 2060 452 2039 467 2035 467 2035 467 2032 467 2032 467 2032 467 2028 467 2028 467 2028 467 2025 467 2025 467 2025 467 2021 467 2021 467 2007 452 2000 445 1436 445 1411 463 1408 467 1408 467 1404 467 1404 467 1404 467 1401 467 1401 467 1401 470 1069 470"/></Shape>
+	    <String CONTENT="SOUTHERN PACIFIC COMPANY."
+                    HPOS="1066"
+                    VPOS="338"
+                    WIDTH="1187"
+                    HEIGHT="132"></String>
           </TextLine>
 
           
           
           <TextLine ID="eSc_line_f6cb5474"
-                    
+                    TAGREFS="LT4565"
                     BASELINE="344 553 527 553" 
                     HPOS="342"
                     VPOS="509"
@@ -178,8 +166,25 @@
 
           
           
+          <TextLine ID="eSc_line_e28a72d8"
+                    TAGREFS="LT4565"
+                    BASELINE="1446 478 1888 462" 
+                    HPOS="1436"
+                    VPOS="417"
+                    WIDTH="450"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="1444 477 1436 424 1875 417 1886 459 1886 484 1444 499"/></Shape>
+	    <String CONTENT="(PACIFIC SYSTEM.)"
+                    HPOS="1436"
+                    VPOS="417"
+                    WIDTH="450"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+          
           <TextLine ID="eSc_line_3c7ff7d7"
-                    
+                    TAGREFS="LT4565"
                     BASELINE="452 612 853 612" 
                     HPOS="445"
                     VPOS="566"
@@ -195,25 +200,25 @@
 
           
           
-          <TextLine ID="eSc_line_43c87d5c"
+          <TextLine ID="eSc_line_4ee40633"
                     
-                    BASELINE="1746 587 2130 478" 
-                    HPOS="1722"
-                    VPOS="417"
-                    WIDTH="413"
-                    HEIGHT="246">
-            <Shape><Polygon POINTS="1743 584 1722 527 2103 417 2128 477 2135 506 2085 541 2082 541 2078 541 2043 545 1985 545 1961 581 1939 606 1936 606 1936 609 1932 609 1928 609 1882 613 1857 613 1764 663"/></Shape>
-	    <String CONTENT="jail. ?"
-                    HPOS="1722"
-                    VPOS="417"
-                    WIDTH="413"
-                    HEIGHT="246"></String>
+                    BASELINE="1037 921 1662 613 1736 574 2130 478" 
+                    HPOS="987"
+                    VPOS="413"
+                    WIDTH="1148"
+                    HEIGHT="560">
+            <Shape><Polygon POINTS="2089 413 2050 413 2043 413 1907 452 1903 452 1903 456 1900 456 1886 474 1886 477 1879 477 1761 470 1757 470 1754 470 1643 516 1640 516 1543 602 1501 634 1468 631 1465 631 1461 631 1458 631 1365 705 1272 720 1269 720 1265 720 1265 723 1198 780 1148 770 1144 770 1140 770 1137 770 1073 809 987 805 1033 919 1055 973 1265 898 1269 898 1312 862 1372 812 1590 716 1672 698 1786 673 1789 673 1793 673 1793 670 1836 627 1936 606 1939 606 1943 606 1943 602 1946 602 1978 563 1989 549 2014 549 2078 538 2082 538 2085 538 2135 491 2128 477 2100 413 2089 413"/></Shape>
+	    <String CONTENT="Oel.- not for pall. ?"
+                    HPOS="987"
+                    VPOS="413"
+                    WIDTH="1148"
+                    HEIGHT="560"></String>
           </TextLine>
 
           
           
           <TextLine ID="eSc_line_62705dc2"
-                    
+                    TAGREFS="LT4567"
                     BASELINE="1754 845 2289 862" 
                     HPOS="1743"
                     VPOS="784"
@@ -229,32 +234,15 @@
 
           
           
-          <TextLine ID="eSc_line_58530acc"
-                    
-                    BASELINE="1037 921 1746 545" 
-                    HPOS="991"
-                    VPOS="467"
-                    WIDTH="766"
-                    HEIGHT="502">
-            <Shape><Polygon POINTS="1033 919 991 837 1140 770 1140 770 1144 770 1144 770 1148 770 1201 770 1422 627 1426 627 1426 627 1558 577 1593 524 1600 509 1600 509 1604 509 1604 506 1604 506 1608 506 1608 506 1704 467 1743 541 1757 573 1707 598 1704 606 1668 680 1668 680 1668 684 1668 684 1665 684 1665 688 1665 688 1661 688 1561 741 1561 741 1561 741 1558 741 1558 741 1558 741 1554 741 1504 741 1472 773 1472 773 1472 777 1472 777 1468 777 1468 777 1465 777 1465 777 1465 777 1461 777 1461 777 1408 770 1390 770 1304 816 1287 841 1237 912 1237 912 1233 912 1233 916 1233 916 1230 916 1144 962 1144 962 1144 962 1140 962 1140 962 1055 969"/></Shape>
-	    <String CONTENT="Owl._ not for"
-                    HPOS="991"
-                    VPOS="467"
-                    WIDTH="766"
-                    HEIGHT="502"></String>
-          </TextLine>
-
-          
-          
           <TextLine ID="eSc_line_8981ca83"
-                    
+                    TAGREFS="LT4567"
                     BASELINE="168 1104 761 1104" 
                     HPOS="167"
                     VPOS="1030"
                     WIDTH="592"
                     HEIGHT="125">
             <Shape><Polygon POINTS="167 1101 167 1055 427 1055 431 1051 474 1030 474 1030 477 1030 477 1030 477 1030 481 1030 759 1048 759 1101 759 1147 167 1155"/></Shape>
-	    <String CONTENT="Mr.C.A.Duniwau,"
+	    <String CONTENT="Mr.C.A.Duniway,"
                     HPOS="167"
                     VPOS="1030"
                     WIDTH="592"
@@ -264,7 +252,7 @@
           
           
           <TextLine ID="eSc_line_29ed4cc9"
-                    
+                    TAGREFS="LT4567"
                     BASELINE="344 1188 2597 1188" 
                     HPOS="338"
                     VPOS="1133"
@@ -281,7 +269,7 @@
           
           
           <TextLine ID="eSc_line_dd9950bc"
-                    
+                    TAGREFS="LT4567"
                     BASELINE="185 1313 653 1313" 
                     HPOS="178"
                     VPOS="1247"
@@ -298,7 +286,7 @@
           
           
           <TextLine ID="eSc_line_be32e8ab"
-                    
+                    TAGREFS="LT4567"
                     BASELINE="820 1246 1813 1246" 
                     HPOS="809"
                     VPOS="1201"
@@ -315,14 +303,14 @@
           
           
           <TextLine ID="eSc_line_170e21eb"
-                    
+                    TAGREFS="LT4567"
                     BASELINE="386 1446 3048 1471" 
                     HPOS="381"
                     VPOS="1368"
                     WIDTH="2663"
                     HEIGHT="154">
             <Shape><Polygon POINTS="385 1443 381 1390 495 1368 495 1368 499 1368 499 1368 499 1368 502 1368 502 1368 502 1368 506 1368 534 1390 538 1390 584 1390 1180 1376 1183 1376 1183 1376 1187 1376 1187 1376 1187 1376 1190 1376 1222 1397 1226 1401 1408 1401 1411 1397 1486 1376 1490 1376 1490 1376 1493 1376 1493 1376 1697 1401 1704 1401 1707 1401 1736 1379 1739 1379 1739 1379 1739 1379 1743 1379 1743 1379 1747 1379 1903 1379 1903 1379 1903 1379 2021 1404 2032 1404 2078 1404 2638 1386 2642 1386 2642 1386 2773 1411 2781 1411 2791 1411 2898 1390 2898 1390 2898 1390 2902 1390 2902 1390 3041 1415 3044 1468 3041 1504 2816 1522 2813 1522 2813 1522 2813 1522 2809 1522 2809 1522 2806 1522 2781 1504 2773 1500 2435 1500 2399 1504 2296 1518 2296 1518 2292 1518 2292 1518 2292 1518 2289 1518 2289 1518 2253 1504 2232 1497 1968 1504 1625 1511 1622 1511 1622 1511 1618 1511 1618 1511 1593 1500 1572 1493 1554 1500 1536 1511 1536 1511 1536 1511 1533 1511 1533 1511 1529 1511 1529 1511 1436 1500 1329 1490 1233 1500 1173 1507 1173 1507 1169 1507 1169 1507 1169 1507 1165 1507 1140 1500 1091 1486 919 1500 859 1504 855 1504 855 1504 855 1504 852 1504 852 1504 848 1504 845 1500 820 1486 787 1500 773 1504 773 1504 770 1504 770 1504 766 1504 766 1504 766 1504 763 1504 763 1504 752 1500 713 1483 684 1500 684 1500 681 1500 681 1500 681 1500 677 1500 677 1500 673 1500 381 1497"/></Shape>
-	    <String CONTENT="Replying to yours of Mar.21st in relation to arrangements for Mrs."
+	    <String CONTENT="Replying to yours of Mar. 21st in relation to arrangements for Mrs."
                     HPOS="381"
                     VPOS="1368"
                     WIDTH="2663"
@@ -332,14 +320,14 @@
           
           
           <TextLine ID="eSc_line_e7f0373e"
-                    
+                    TAGREFS="LT4567"
                     BASELINE="185 1572 3090 1588" 
                     HPOS="178"
                     VPOS="1515"
                     WIDTH="2909"
                     HEIGHT="117">
             <Shape><Polygon POINTS="181 1568 181 1515 3084 1540 3087 1586 3080 1632 178 1625"/></Shape>
-	    <String CONTENT="Stanford&#39;s funeral,it being suggested by Mr.Chas.G.Lathrop that it would"
+	    <String CONTENT="Stanford&#x27;s funeral, it being suggested by Mr. Chas. G. Lathrop that it would"
                     HPOS="178"
                     VPOS="1515"
                     WIDTH="2909"
@@ -349,7 +337,7 @@
           
           
           <TextLine ID="eSc_line_c7c72abd"
-                    
+                    TAGREFS="LT4567"
                     BASELINE="169 1722 3123 1730" 
                     HPOS="164"
                     VPOS="1661"
@@ -366,7 +354,7 @@
           
           
           <TextLine ID="eSc_line_6b0452a2"
-                    
+                    TAGREFS="LT4567"
                     BASELINE="177 1847 2080 1864" 
                     HPOS="171"
                     VPOS="1782"
@@ -383,14 +371,14 @@
           
           
           <TextLine ID="eSc_line_b72dce41"
-                    
+                    TAGREFS="LT4567"
                     BASELINE="386 1972 2807 1997" 
                     HPOS="381"
                     VPOS="1896"
                     WIDTH="2425"
                     HEIGHT="143">
             <Shape><Polygon POINTS="385 1971 388 1896 452 1921 591 1900 591 1900 595 1900 595 1900 595 1900 599 1900 599 1900 656 1925 1076 1928 1372 1907 1372 1907 1376 1907 1376 1907 1376 1907 1376 1907 1379 1907 1379 1907 1436 1932 1754 1910 1761 1910 1764 1910 1764 1910 1764 1910 1768 1910 1889 1939 2182 1939 2207 1917 2207 1917 2210 1917 2210 1917 2210 1917 2214 1917 2214 1917 2217 1917 2217 1917 2378 1935 2453 1917 2456 1917 2456 1917 2456 1917 2460 1917 2460 1917 2460 1917 2460 1917 2463 1917 2463 1917 2463 1917 2467 1917 2502 1942 2624 1925 2624 1925 2627 1925 2627 1925 2627 1925 2631 1925 2631 1925 2681 1942 2802 1921 2806 1996 2798 2039 381 2021"/></Shape>
-	    <String CONTENT="You ask for names and adresses of the proper officers of the"
+	    <String CONTENT="You ask for names and adresse⟦s⟧ of the proper officers of the"
                     HPOS="381"
                     VPOS="1896"
                     WIDTH="2425"
@@ -400,7 +388,7 @@
           
           
           <TextLine ID="eSc_line_4938880d"
-                    
+                    TAGREFS="LT4567"
                     BASELINE="177 2097 3048 2114" 
                     HPOS="174"
                     VPOS="2049"
@@ -417,7 +405,7 @@
           
           
           <TextLine ID="eSc_line_340b1602"
-                    
+                    TAGREFS="LT4567"
                     BASELINE="185 2248 2898 2256" 
                     HPOS="178"
                     VPOS="2188"
@@ -434,7 +422,7 @@
           
           
           <TextLine ID="eSc_line_c1bb2fc8"
-                    
+                    TAGREFS="LT4567"
                     BASELINE="185 2373 2914 2381" 
                     HPOS="181"
                     VPOS="2310"
@@ -451,14 +439,14 @@
           
           
           <TextLine ID="eSc_line_35557744"
-                    
+                    TAGREFS="LT4567"
                     BASELINE="169 2515 2873 2531" 
                     HPOS="164"
                     VPOS="2456"
                     WIDTH="2709"
                     HEIGHT="128">
             <Shape><Polygon POINTS="167 2513 167 2456 2870 2470 2870 2527 2873 2563 2848 2581 2845 2581 2845 2581 2845 2581 2841 2581 2841 2581 2841 2581 2838 2581 2838 2581 2834 2581 2834 2581 2834 2581 2795 2563 2795 2563 2371 2563 2371 2563 2321 2584 2321 2584 2317 2584 2317 2584 2317 2584 2314 2584 2314 2584 2314 2584 2203 2563 2178 2559 2149 2563 2057 2577 2057 2577 2053 2577 2053 2577 2053 2577 2050 2577 2050 2577 2010 2563 2000 2559 1700 2559 1686 2563 1633 2581 1629 2581 1629 2581 1625 2581 848 2577 848 2577 848 2577 845 2577 845 2577 845 2577 841 2577 823 2563 809 2552 695 2552 631 2563 581 2573 581 2573 581 2573 577 2573 577 2573 574 2573 574 2573 574 2573 570 2573 556 2563 538 2552 499 2563 481 2570 477 2570 477 2570 477 2570 474 2570 164 2563"/></Shape>
-	    <String CONTENT="communicate with Mr. W. S. Palmer. Superintendent S.P.Co, Oakland Pied,"
+	    <String CONTENT="communicate with Mr. W. S. Palmer. Superintendent S. P. Co., Oakland Pier,"
                     HPOS="164"
                     VPOS="2456"
                     WIDTH="2709"
@@ -468,7 +456,7 @@
           
           
           <TextLine ID="eSc_line_dcd4f297"
-                    
+                    TAGREFS="LT4567"
                     BASELINE="185 2640 3056 2665" 
                     HPOS="178"
                     VPOS="2591"
@@ -485,7 +473,7 @@
           
           
           <TextLine ID="eSc_line_82990cb7"
-                    
+                    TAGREFS="LT4567"
                     BASELINE="185 2782 2923 2782" 
                     HPOS="181"
                     VPOS="2723"
@@ -502,7 +490,7 @@
           
           
           <TextLine ID="eSc_line_d79e9ace"
-                    
+                    TAGREFS="LT4567"
                     BASELINE="185 2915 3023 2924" 
                     HPOS="181"
                     VPOS="2859"
@@ -519,14 +507,14 @@
           
           
           <TextLine ID="eSc_line_44c57935"
-                    
+                    TAGREFS="LT4567"
                     BASELINE="169 3049 2940 3057" 
                     HPOS="164"
                     VPOS="2987"
                     WIDTH="2773"
                     HEIGHT="128">
             <Shape><Polygon POINTS="167 3048 164 2994 2930 2987 2937 3055 2930 3094 2378 3094 2363 3094 2217 3115 2217 3115 2214 3115 2214 3115 2018 3094 2007 3094 1953 3094 859 3112 855 3112 855 3112 852 3112 852 3112 852 3112 805 3090 795 3087 759 3090 609 3108 609 3108 606 3108 606 3108 602 3108 602 3108 602 3108 563 3090 556 3087 549 3090 499 3108 499 3108 495 3108 495 3108 492 3108 164 3087"/></Shape>
-	    <String CONTENT="Trainmen, and Mr.Jas.C.Wilder, Supertintendent S.P.CO.,Third &amp; Townsend"
+	    <String CONTENT="Trainmen, and Mr. Jas. C. Wilder, Supertintendent S. P. Co.,Third &amp; Townsend"
                     HPOS="164"
                     VPOS="2987"
                     WIDTH="2773"
@@ -536,14 +524,14 @@
           
           
           <TextLine ID="eSc_line_b0190c08"
-                    
+                    TAGREFS="LT4567"
                     BASELINE="159 3172 3006 3195" 
                     HPOS="149"
                     VPOS="3126"
                     WIDTH="2856"
                     HEIGHT="121">
             <Shape><Polygon POINTS="156 3169 156 3126 3005 3151 3005 3194 3002 3229 2613 3247 2609 3247 2609 3247 2606 3247 2606 3247 2556 3229 2552 3229 2542 3229 2374 3244 2374 3244 2371 3244 2178 3226 2146 3226 2103 3226 1854 3240 1850 3240 1850 3240 1850 3240 1846 3240 1793 3226 1779 3222 1722 3226 1529 3237 1526 3237 149 3215"/></Shape>
-	    <String CONTENT="Streets,San Francisco, asking him for the same number. These gentlemen"
+	    <String CONTENT="Streets, San Francisco, asking him for the same number. These gentlemen"
                     HPOS="149"
                     VPOS="3126"
                     WIDTH="2856"
@@ -553,7 +541,7 @@
           
           
           <TextLine ID="eSc_line_91370f05"
-                    
+                    TAGREFS="LT4567"
                     BASELINE="182 3322 3059 3322" 
                     HPOS="181"
                     VPOS="3261"
@@ -570,14 +558,14 @@
           
           
           <TextLine ID="eSc_line_cb690886"
-                    
+                    TAGREFS="LT4567"
                     BASELINE="174 3458 3089 3458" 
                     HPOS="167"
                     VPOS="3401"
                     WIDTH="2920"
                     HEIGHT="110">
             <Shape><Polygon POINTS="171 3454 167 3404 3084 3401 3087 3454 3084 3511 2606 3493 2253 3507 2114 3511 2110 3511 2110 3511 2053 3504 1953 3493 1886 3504 1836 3511 1836 3511 1832 3511 1832 3511 1832 3511 1829 3511 1800 3504 1764 3493 1732 3504 1707 3511 1704 3511 1704 3511 1704 3511 1700 3511 1561 3500 1436 3493 1344 3500 1208 3511 1208 3511 1205 3511 1009 3497 937 3493 927 3497 909 3511 905 3511 905 3511 905 3511 902 3511 902 3511 902 3511 898 3511 898 3511 894 3511 894 3511 894 3511 891 3511 891 3511 873 3497 866 3493 606 3493 588 3493 481 3511 481 3511 477 3511 477 3511 477 3511 474 3511 474 3511 434 3493 431 3493 431 3493 377 3511 374 3511 374 3511 374 3511 370 3511 370 3511 167 3490"/></Shape>
-	    <String CONTENT="to represent them at Mrs.Stanford&#39;s funeral. This would make 16 members,"
+	    <String CONTENT="to represent them at Mrs. Stanford&#x27;s funeral. This would make 16 members,"
                     HPOS="167"
                     VPOS="3401"
                     WIDTH="2920"
@@ -587,7 +575,7 @@
           
           
           <TextLine ID="eSc_line_14bc6d8f"
-                    
+                    TAGREFS="LT4567"
                     BASELINE="167 3585 2976 3585" 
                     HPOS="164"
                     VPOS="3532"
@@ -604,7 +592,7 @@
           
           
           <TextLine ID="eSc_line_c5a524f7"
-                    
+                    TAGREFS="LT4567"
                     BASELINE="159 3705 1384 3713" 
                     HPOS="149"
                     VPOS="3657"
@@ -621,7 +609,7 @@
           
           
           <TextLine ID="eSc_line_1e493781"
-                    
+                    TAGREFS="LT4567"
                     BASELINE="1564 3773 2060 3781" 
                     HPOS="1547"
                     VPOS="3711"
@@ -638,13 +626,13 @@
           
           
           <TextLine ID="eSc_line_e8ea3c6d"
-                    
+                    TAGREFS="LT4568"
                     BASELINE="2150 3871 2856 3856" 
                     HPOS="2139"
                     VPOS="3657"
                     WIDTH="720"
                     HEIGHT="346">
-            <Shape><Polygon POINTS="2149 3868 2139 3743 2185 3739 2189 3736 2264 3668 2264 3668 2264 3668 2267 3668 2267 3668 2271 3668 2271 3668 2271 3668 2342 3664 2346 3664 2346 3664 2349 3664 2349 3664 2349 3664 2353 3664 2353 3664 2406 3707 2428 3728 2492 3736 2545 3736 2599 3686 2624 3664 2624 3661 2624 3661 2627 3661 2627 3661 2631 3661 2631 3661 2631 3661 2634 3661 2634 3661 2634 3661 2638 3661 2638 3661 2642 3661 2666 3679 2734 3718 2791 3661 2795 3661 2795 3657 2795 3657 2798 3657 2798 3657 2798 3657 2802 3657 2802 3657 2806 3657 2848 3657 2855 3853 2859 3942 2756 3996 2756 3996 2756 3996 2752 3996 2752 3996 2666 3999 2663 3999 2663 3999 2663 3999 2659 3999 2659 3999 2656 3999 2656 3999 2656 3999 2613 3964 2609 3957 2602 3964 2567 3996 2567 3999 2567 3999 2563 3999 2563 3999 2563 3999 2560 3999 2560 3999 2560 3999 2478 4003 2474 4003 2474 4003 2474 4003 2470 4003 2470 4003 2467 4003 2467 4003 2467 3999 2438 3974 2410 3953 2328 3953 2281 3974 2281 3974 2281 3974 2278 3974 2278 3974 2274 3974 2274 3974 2274 3974 2271 3974 2210 3957 2157 3999"/></Shape>
+            <Shape><Polygon POINTS="2149 3868 2139 3743 2185 3739 2189 3736 2264 3668 2267 3668 2271 3668 2342 3664 2346 3664 2349 3664 2353 3664 2406 3707 2428 3728 2492 3736 2545 3736 2599 3686 2624 3664 2624 3661 2627 3661 2631 3661 2634 3661 2638 3661 2642 3661 2666 3679 2734 3718 2791 3661 2795 3661 2795 3657 2798 3657 2802 3657 2806 3657 2848 3657 2855 3853 2859 3942 2756 3996 2752 3996 2666 3999 2663 3999 2659 3999 2656 3999 2613 3964 2609 3957 2602 3964 2567 3996 2567 3999 2563 3999 2560 3999 2478 4003 2474 4003 2470 4003 2467 4003 2467 3999 2438 3974 2410 3953 2328 3953 2281 3974 2278 3974 2274 3974 2271 3974 2210 3957 2157 3999"/></Shape>
 	    <String CONTENT="Justins"
                     HPOS="2139"
                     VPOS="3657"
@@ -655,7 +643,7 @@
           
           
           <TextLine ID="eSc_line_4dc07ced"
-                    
+                    TAGREFS="LT4567"
                     BASELINE="159 4028 445 4036" 
                     HPOS="153"
                     VPOS="3982"
@@ -672,7 +660,7 @@
           
           
           <TextLine ID="eSc_line_f74977fa"
-                    
+                    TAGREFS="LT4567"
                     BASELINE="302 4104 490 4104" 
                     HPOS="299"
                     VPOS="4060"
@@ -689,7 +677,7 @@
           
           
           <TextLine ID="eSc_line_60c871a9"
-                    
+                    TAGREFS="LT4567"
                     BASELINE="2135 4058 2465 4051" 
                     HPOS="2125"
                     VPOS="3996"
