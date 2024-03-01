@@ -1,15 +1,25 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
 cff-version: 1.2.0
-message: "If you use the data set, please cite it as below."
+title: Memorials for Jane Lathrop Stanford
+message: >-
+  If you use this dataset, please cite it using the metadata
+  from this file.
+type: dataset
 authors:
-- family-names: 'Guimarães'
-  given-names: 'Ingrid'
-- family-names: 'Maurel'
-  given-names: 'Perrine'
-- family-names: 'Ozturk'
-  given-names: 'Yagmur'
-title: "Memorials for Jane Lathrop Stanford"
-version: 1.0
-doi: 10.5281/zenodo.6126625 
-date-released: 2022-02-15
-url: "https://github.com/PSL-Chartes-HTR-Students/HN2021-Memorials_Jane_Lathrop_Stanford"
-type: "data"
+  - given-names: Ingrid
+    family-names: Guimarães
+  - given-names: Perrine
+    family-names: Maurel
+  - given-names: Yagmur
+    family-names: Ozturk
+  - given-names: Alix
+    family-names: Chagué
+    orcid: 'https://orcid.org/0000-0002-0136-4434'
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.6126625
+license: CC-BY-4.0
+version: '1.0'
+date-released: '2022-02-15'
